@@ -1,0 +1,1001 @@
+id,cargo,nomeEmpresa,descricao,competencia,deficiencia,etnia,genero,local,salario
+1,Biostatistician IV,Trunyx,Sales Representative,IT Consultant,Visual,Amarelo,Homem,Sao Paulo,1604.64
+2,Associate Professor,Yozio,Sales Representative,Data Analyst,Nenhum,Todos,Prefiro não responder,Salvador,2961.57
+3,Quality Control Specialist,Photobean,Human Resources Specialist,Software Engineer,Nenhum,Preto,Prefiro não responder,Salvador,8318.96
+4,Software Engineer III,Youopia,Human Resources Specialist,Network Administrator,Nenhum,Amarelo,Homem,Fortaleza,8786.98
+5,Senior Developer,Kwideo,Sales Representative,UX Designer,Nenhum,Amarelo,Prefiro não responder,Sao Paulo,9456.3
+6,Sales Representative,Zoozzy,Marketing Manager,Network Administrator,Auditiva,Todos,Homem,Fortaleza,7510.3
+7,Safety Technician II,Linkbuzz,Data Analyst,IT Consultant,Intelectual,Preto,Mulher,Fortaleza,5117.96
+8,GIS Technical Architect,Thoughtstorm,Sales Representative,UX Designer,Intelectual,Amarelo,Mulher,Salvador,4006.59
+9,Registered Nurse,Bluezoom,Software Engineer,Network Administrator,Nenhum,Todos,Mulher,Fortaleza,7006.0
+10,Database Administrator I,Realbuzz,Software Engineer,Software Engineer,Auditiva,Preto,Homem,Brasilia,3749.2
+11,Administrative Officer,Mydeo,Software Engineer,Software Engineer,Auditiva,Preto,Prefiro não responder,Sao Paulo,8498.9
+12,Web Developer II,Ozu,Human Resources Specialist,Software Engineer,Nenhum,Branco,Mulher,Salvador,9491.64
+13,Programmer Analyst II,Zava,Software Engineer,Network Administrator,Auditiva,Todos,Mulher,Brasilia,9336.7
+14,Director of Sales,Rooxo,Marketing Manager,UX Designer,Intelectual,Preto,Mulher,Brasilia,7202.34
+15,Sales Representative,Dabvine,Sales Representative,UX Designer,Auditiva,Preto,Homem,Rio de Janeiro,2540.31
+16,Staff Accountant III,Trilith,Sales Representative,IT Consultant,Nenhum,Todos,Prefiro não responder,Brasilia,4811.04
+17,Nurse,Meevee,Human Resources Specialist,Network Administrator,Nenhum,Todos,Homem,Sao Paulo,2359.13
+18,Developer IV,Fivebridge,Marketing Manager,IT Consultant,Intelectual,Todos,Homem,Fortaleza,3110.17
+19,Compensation Analyst,Twitterworks,Sales Representative,UX Designer,Auditiva,Todos,Prefiro não responder,Brasilia,7314.06
+20,Associate Professor,Oyondu,Sales Representative,UX Designer,Nenhum,Amarelo,Homem,Sao Paulo,6173.94
+21,Technical Writer,Tambee,Sales Representative,Network Administrator,Intelectual,Preto,Prefiro não responder,Sao Paulo,9811.65
+22,Executive Secretary,Bubbletube,Human Resources Specialist,Network Administrator,Intelectual,Todos,Mulher,Sao Paulo,8110.43
+23,Developer IV,Flashset,Data Analyst,Network Administrator,Nenhum,Todos,Homem,Fortaleza,1527.1
+24,Speech Pathologist,Rhycero,Marketing Manager,UX Designer,Visual,Preto,Mulher,Rio de Janeiro,9241.97
+25,Computer Systems Analyst III,Yakitri,Human Resources Specialist,Network Administrator,Fisico,Branco,Prefiro não responder,Salvador,2119.45
+26,Chemical Engineer,Linkbridge,Sales Representative,Network Administrator,Intelectual,Preto,Mulher,Sao Paulo,6582.08
+27,Recruiter,Oyope,Software Engineer,IT Consultant,Auditiva,Parda,Prefiro não responder,Brasilia,5964.98
+28,Project Manager,Dabtype,Human Resources Specialist,Network Administrator,Auditiva,Todos,Prefiro não responder,Brasilia,5560.39
+29,Budget/Accounting Analyst IV,Voonyx,Marketing Manager,IT Consultant,Auditiva,Preto,Mulher,Brasilia,9735.06
+30,Human Resources Manager,Plajo,Sales Representative,Data Analyst,Nenhum,Todos,Homem,Fortaleza,2033.11
+31,Community Outreach Specialist,Topicware,Human Resources Specialist,IT Consultant,Fisico,Preto,Homem,Rio de Janeiro,3408.5
+32,Operator,Dazzlesphere,Data Analyst,Data Analyst,Intelectual,Parda,Homem,Brasilia,2077.07
+33,Legal Assistant,Ozu,Human Resources Specialist,IT Consultant,Nenhum,Preto,Mulher,Rio de Janeiro,2520.68
+34,Internal Auditor,Vinder,Software Engineer,Software Engineer,Auditiva,Preto,Homem,Rio de Janeiro,5328.51
+35,Accountant II,Jazzy,Software Engineer,UX Designer,Visual,Preto,Mulher,Sao Paulo,4479.8
+36,Assistant Professor,Skyble,Marketing Manager,Data Analyst,Nenhum,Preto,Prefiro não responder,Fortaleza,8326.55
+37,Assistant Manager,Skiba,Software Engineer,UX Designer,Fisico,Branco,Mulher,Salvador,9947.91
+38,Web Developer II,Photobean,Software Engineer,UX Designer,Nenhum,Amarelo,Prefiro não responder,Sao Paulo,6231.95
+39,Web Developer II,Cogibox,Sales Representative,UX Designer,Fisico,Todos,Mulher,Rio de Janeiro,4044.18
+40,Operator,Devify,Sales Representative,Data Analyst,Nenhum,Todos,Prefiro não responder,Sao Paulo,9739.83
+41,Database Administrator II,Flashdog,Data Analyst,UX Designer,Fisico,Branco,Prefiro não responder,Salvador,6860.86
+42,Nuclear Power Engineer,Aibox,Marketing Manager,Network Administrator,Nenhum,Amarelo,Mulher,Salvador,2296.34
+43,Research Associate,Thoughtbridge,Marketing Manager,IT Consultant,Fisico,Branco,Mulher,Rio de Janeiro,3546.02
+44,Programmer Analyst IV,Vidoo,Marketing Manager,IT Consultant,Nenhum,Preto,Mulher,Brasilia,1542.94
+45,Nurse Practicioner,Innojam,Marketing Manager,IT Consultant,Nenhum,Preto,Prefiro não responder,Sao Paulo,4599.22
+46,Technical Writer,Devpoint,Human Resources Specialist,Data Analyst,Intelectual,Parda,Prefiro não responder,Salvador,6915.8
+47,Research Nurse,Photobug,Human Resources Specialist,Network Administrator,Nenhum,Preto,Homem,Fortaleza,2889.99
+48,Developer IV,Dabfeed,Data Analyst,Data Analyst,Nenhum,Todos,Homem,Fortaleza,4484.95
+49,Actuary,Zoozzy,Sales Representative,UX Designer,Fisico,Todos,Prefiro não responder,Brasilia,6175.77
+50,Compensation Analyst,Thoughtworks,Software Engineer,Network Administrator,Visual,Amarelo,Mulher,Rio de Janeiro,3583.02
+51,Sales Representative,Realblab,Software Engineer,Network Administrator,Auditiva,Amarelo,Prefiro não responder,Fortaleza,1613.28
+52,Research Nurse,Photobug,Human Resources Specialist,Data Analyst,Nenhum,Preto,Prefiro não responder,Brasilia,3534.08
+53,Data Coordinator,Kwilith,Data Analyst,UX Designer,Intelectual,Todos,Prefiro não responder,Salvador,4464.02
+54,Quality Control Specialist,Realpoint,Sales Representative,IT Consultant,Visual,Preto,Prefiro não responder,Brasilia,4904.18
+55,Engineer III,Thoughtmix,Software Engineer,Network Administrator,Nenhum,Todos,Prefiro não responder,Fortaleza,7283.72
+56,Registered Nurse,Browsebug,Marketing Manager,Network Administrator,Nenhum,Branco,Prefiro não responder,Sao Paulo,4250.6
+57,Professor,Flipopia,Sales Representative,IT Consultant,Visual,Todos,Prefiro não responder,Sao Paulo,5576.49
+58,VP Marketing,Yabox,Sales Representative,Data Analyst,Fisico,Todos,Homem,Sao Paulo,4122.97
+59,Assistant Media Planner,Bluejam,Human Resources Specialist,UX Designer,Nenhum,Preto,Mulher,Salvador,6273.58
+60,Account Coordinator,JumpXS,Marketing Manager,Network Administrator,Fisico,Todos,Homem,Brasilia,7253.13
+61,Social Worker,Tekfly,Marketing Manager,Software Engineer,Auditiva,Todos,Prefiro não responder,Sao Paulo,3958.89
+62,Technical Writer,Voonyx,Software Engineer,Data Analyst,Nenhum,Todos,Mulher,Fortaleza,8810.65
+63,Teacher,Edgetag,Sales Representative,UX Designer,Nenhum,Preto,Prefiro não responder,Brasilia,3226.01
+64,Accountant III,Edgeify,Marketing Manager,Data Analyst,Nenhum,Preto,Prefiro não responder,Brasilia,9819.91
+65,Registered Nurse,Divavu,Data Analyst,Network Administrator,Intelectual,Preto,Mulher,Salvador,6986.35
+66,Director of Sales,Myworks,Marketing Manager,Network Administrator,Fisico,Todos,Prefiro não responder,Salvador,9939.71
+67,General Manager,Fivebridge,Sales Representative,UX Designer,Nenhum,Preto,Prefiro não responder,Rio de Janeiro,3573.51
+68,Clinical Specialist,Youtags,Software Engineer,IT Consultant,Nenhum,Preto,Mulher,Salvador,6339.0
+69,Human Resources Manager,Devify,Human Resources Specialist,Software Engineer,Intelectual,Preto,Homem,Rio de Janeiro,6868.33
+70,Registered Nurse,Jabberbean,Software Engineer,UX Designer,Nenhum,Todos,Prefiro não responder,Salvador,1541.92
+71,Help Desk Operator,Oyoloo,Human Resources Specialist,Network Administrator,Fisico,Preto,Homem,Sao Paulo,2869.12
+72,Nurse,Jaxworks,Software Engineer,Software Engineer,Nenhum,Preto,Homem,Salvador,7763.92
+73,Environmental Tech,Oozz,Human Resources Specialist,Data Analyst,Nenhum,Todos,Mulher,Salvador,9159.37
+74,Health Coach II,Demivee,Marketing Manager,UX Designer,Visual,Preto,Prefiro não responder,Salvador,1913.12
+75,Safety Technician II,Bubblemix,Human Resources Specialist,IT Consultant,Fisico,Preto,Homem,Rio de Janeiro,3136.21
+76,Automation Specialist III,Realcube,Software Engineer,IT Consultant,Nenhum,Preto,Homem,Fortaleza,3099.25
+77,Administrative Assistant IV,Roombo,Software Engineer,Software Engineer,Visual,Todos,Mulher,Rio de Janeiro,8844.04
+78,Cost Accountant,Kwinu,Software Engineer,Software Engineer,Nenhum,Branco,Mulher,Fortaleza,5918.14
+79,Nurse Practicioner,Oodoo,Data Analyst,Data Analyst,Fisico,Preto,Prefiro não responder,Brasilia,9858.49
+80,Structural Analysis Engineer,Ooba,Software Engineer,IT Consultant,Fisico,Todos,Mulher,Sao Paulo,7137.86
+81,Recruiter,Pixonyx,Data Analyst,Software Engineer,Nenhum,Preto,Homem,Fortaleza,8278.24
+82,Junior Executive,Cogidoo,Data Analyst,Software Engineer,Intelectual,Preto,Homem,Sao Paulo,8900.87
+83,Marketing Assistant,Tagpad,Software Engineer,UX Designer,Nenhum,Amarelo,Mulher,Sao Paulo,4149.16
+84,Actuary,Mycat,Software Engineer,UX Designer,Nenhum,Todos,Prefiro não responder,Salvador,8710.79
+85,Accounting Assistant I,Rhybox,Data Analyst,IT Consultant,Nenhum,Todos,Homem,Brasilia,1736.38
+86,Assistant Media Planner,Linktype,Marketing Manager,Network Administrator,Auditiva,Preto,Mulher,Salvador,6237.73
+87,Registered Nurse,Devpulse,Data Analyst,IT Consultant,Nenhum,Branco,Homem,Brasilia,8668.41
+88,Budget/Accounting Analyst IV,Einti,Software Engineer,IT Consultant,Auditiva,Preto,Homem,Sao Paulo,4649.65
+89,Data Coordinator,Fliptune,Marketing Manager,Software Engineer,Nenhum,Branco,Prefiro não responder,Fortaleza,1531.13
+90,Administrative Officer,Photolist,Sales Representative,Data Analyst,Auditiva,Preto,Homem,Rio de Janeiro,6644.37
+91,Assistant Media Planner,Twitterbeat,Marketing Manager,UX Designer,Nenhum,Branco,Homem,Salvador,4572.48
+92,Research Assistant III,Zoomcast,Sales Representative,UX Designer,Intelectual,Preto,Mulher,Brasilia,4862.98
+93,Librarian,Twitternation,Software Engineer,Data Analyst,Auditiva,Branco,Prefiro não responder,Rio de Janeiro,3843.24
+94,Internal Auditor,Meeveo,Sales Representative,UX Designer,Visual,Preto,Prefiro não responder,Sao Paulo,6588.02
+95,Marketing Manager,Eadel,Software Engineer,Data Analyst,Visual,Todos,Mulher,Brasilia,4546.34
+96,Chemical Engineer,Twitterbridge,Data Analyst,Data Analyst,Auditiva,Todos,Homem,Salvador,7513.31
+97,Senior Cost Accountant,Yodoo,Human Resources Specialist,UX Designer,Visual,Todos,Homem,Salvador,4002.73
+98,Tax Accountant,Eazzy,Sales Representative,Software Engineer,Nenhum,Amarelo,Mulher,Sao Paulo,1789.1
+99,Database Administrator IV,Edgeify,Data Analyst,Network Administrator,Nenhum,Todos,Mulher,Salvador,3765.49
+100,VP Marketing,Fiveclub,Human Resources Specialist,Data Analyst,Auditiva,Todos,Homem,Rio de Janeiro,9993.74
+101,Project Manager,Agivu,Sales Representative,Network Administrator,Nenhum,Preto,Mulher,Sao Paulo,4577.87
+102,Technical Writer,Browsedrive,Software Engineer,IT Consultant,Intelectual,Branco,Homem,Brasilia,4741.79
+103,VP Accounting,LiveZ,Human Resources Specialist,Data Analyst,Nenhum,Preto,Homem,Fortaleza,4798.81
+104,Administrative Officer,Eimbee,Marketing Manager,Data Analyst,Intelectual,Todos,Prefiro não responder,Salvador,5884.64
+105,Environmental Tech,Meevee,Data Analyst,IT Consultant,Nenhum,Preto,Prefiro não responder,Sao Paulo,7761.18
+106,VP Accounting,Voonix,Data Analyst,Data Analyst,Visual,Parda,Mulher,Sao Paulo,5078.52
+107,VP Product Management,Wikivu,Human Resources Specialist,Software Engineer,Visual,Todos,Mulher,Salvador,9563.97
+108,Automation Specialist IV,Kwimbee,Sales Representative,UX Designer,Visual,Todos,Mulher,Fortaleza,2985.24
+109,Computer Systems Analyst II,Gigazoom,Sales Representative,Network Administrator,Nenhum,Preto,Mulher,Brasilia,2258.61
+110,Assistant Manager,Babbleopia,Human Resources Specialist,UX Designer,Fisico,Todos,Mulher,Salvador,8766.69
+111,Account Representative IV,Thoughtmix,Human Resources Specialist,UX Designer,Intelectual,Preto,Homem,Brasilia,5662.22
+112,Sales Associate,Kazu,Data Analyst,IT Consultant,Nenhum,Preto,Prefiro não responder,Rio de Janeiro,8200.02
+113,VP Accounting,Eadel,Sales Representative,UX Designer,Nenhum,Todos,Prefiro não responder,Sao Paulo,5940.42
+114,Cost Accountant,Cogidoo,Marketing Manager,Network Administrator,Visual,Branco,Prefiro não responder,Fortaleza,2518.57
+115,Senior Editor,Edgeify,Software Engineer,Software Engineer,Nenhum,Preto,Mulher,Rio de Janeiro,8926.55
+116,Product Engineer,Twitterlist,Human Resources Specialist,Network Administrator,Nenhum,Preto,Mulher,Fortaleza,9232.76
+117,Assistant Media Planner,Chatterbridge,Data Analyst,Data Analyst,Nenhum,Parda,Homem,Fortaleza,6342.2
+118,Dental Hygienist,Photobean,Software Engineer,UX Designer,Auditiva,Branco,Prefiro não responder,Rio de Janeiro,4784.71
+119,Senior Quality Engineer,Babblestorm,Human Resources Specialist,UX Designer,Visual,Todos,Mulher,Brasilia,5577.28
+120,VP Product Management,Twimm,Data Analyst,Software Engineer,Nenhum,Preto,Mulher,Sao Paulo,4153.09
+121,Sales Representative,Einti,Sales Representative,Software Engineer,Visual,Amarelo,Prefiro não responder,Salvador,3550.37
+122,Assistant Professor,Quamba,Sales Representative,Data Analyst,Nenhum,Todos,Prefiro não responder,Salvador,3924.67
+123,Electrical Engineer,Realmix,Marketing Manager,Network Administrator,Intelectual,Preto,Mulher,Brasilia,7126.77
+124,Research Assistant IV,Zooxo,Sales Representative,Data Analyst,Nenhum,Preto,Homem,Brasilia,7738.19
+125,Software Engineer III,Livetube,Software Engineer,IT Consultant,Nenhum,Todos,Prefiro não responder,Fortaleza,5425.98
+126,Project Manager,Meetz,Marketing Manager,UX Designer,Auditiva,Todos,Prefiro não responder,Fortaleza,3574.21
+127,Librarian,Fivespan,Human Resources Specialist,IT Consultant,Nenhum,Parda,Homem,Fortaleza,8618.43
+128,Speech Pathologist,Yakijo,Human Resources Specialist,Software Engineer,Auditiva,Todos,Mulher,Fortaleza,3741.87
+129,Senior Developer,Bluejam,Software Engineer,Data Analyst,Nenhum,Todos,Homem,Fortaleza,2278.78
+130,Librarian,Trunyx,Sales Representative,Data Analyst,Visual,Parda,Prefiro não responder,Sao Paulo,7388.03
+131,Data Coordinator,Jabberstorm,Human Resources Specialist,UX Designer,Nenhum,Branco,Prefiro não responder,Salvador,9391.05
+132,Sales Associate,Oyondu,Human Resources Specialist,Network Administrator,Intelectual,Preto,Prefiro não responder,Rio de Janeiro,6629.5
+133,Dental Hygienist,Jabberstorm,Sales Representative,Network Administrator,Nenhum,Preto,Prefiro não responder,Fortaleza,3211.69
+134,Legal Assistant,Pixope,Data Analyst,UX Designer,Fisico,Preto,Prefiro não responder,Sao Paulo,3339.06
+135,Staff Accountant III,Thoughtmix,Software Engineer,Data Analyst,Nenhum,Todos,Homem,Salvador,5578.71
+136,Speech Pathologist,Twinder,Marketing Manager,IT Consultant,Nenhum,Branco,Homem,Sao Paulo,6933.89
+137,Budget/Accounting Analyst I,Devcast,Software Engineer,IT Consultant,Nenhum,Preto,Homem,Brasilia,8047.79
+138,Social Worker,Edgeblab,Marketing Manager,Data Analyst,Visual,Preto,Mulher,Sao Paulo,7222.71
+139,Professor,Ailane,Human Resources Specialist,IT Consultant,Fisico,Todos,Homem,Rio de Janeiro,7950.06
+140,Associate Professor,Bluejam,Software Engineer,Data Analyst,Nenhum,Parda,Homem,Rio de Janeiro,7243.67
+141,Internal Auditor,Flipbug,Human Resources Specialist,Network Administrator,Nenhum,Todos,Homem,Brasilia,9924.99
+142,Analog Circuit Design manager,Skipfire,Data Analyst,UX Designer,Intelectual,Parda,Homem,Rio de Janeiro,4665.85
+143,Geological Engineer,Gigashots,Data Analyst,Network Administrator,Auditiva,Branco,Prefiro não responder,Rio de Janeiro,8491.53
+144,Pharmacist,Jetwire,Human Resources Specialist,Data Analyst,Intelectual,Preto,Mulher,Salvador,7315.36
+145,Engineer I,Thoughtstorm,Human Resources Specialist,Data Analyst,Nenhum,Preto,Mulher,Fortaleza,8520.89
+146,Nurse Practicioner,Zoomcast,Sales Representative,Data Analyst,Visual,Preto,Prefiro não responder,Fortaleza,2560.22
+147,Data Coordinator,Meetz,Marketing Manager,IT Consultant,Nenhum,Preto,Mulher,Sao Paulo,2277.47
+148,Statistician IV,Babbleopia,Marketing Manager,Software Engineer,Fisico,Todos,Homem,Brasilia,2483.26
+149,Design Engineer,Skipstorm,Data Analyst,UX Designer,Visual,Todos,Mulher,Fortaleza,7119.33
+150,Geological Engineer,Jetpulse,Sales Representative,IT Consultant,Nenhum,Todos,Homem,Fortaleza,4579.86
+151,Sales Associate,Flipstorm,Human Resources Specialist,UX Designer,Visual,Preto,Mulher,Rio de Janeiro,2154.59
+152,Research Associate,Zoomdog,Sales Representative,Software Engineer,Intelectual,Preto,Prefiro não responder,Brasilia,8815.59
+153,Chief Design Engineer,Teklist,Data Analyst,Data Analyst,Auditiva,Todos,Prefiro não responder,Rio de Janeiro,2329.0
+154,Biostatistician IV,Skipfire,Marketing Manager,IT Consultant,Nenhum,Todos,Mulher,Fortaleza,5802.55
+155,Electrical Engineer,Devbug,Sales Representative,UX Designer,Nenhum,Amarelo,Prefiro não responder,Salvador,7440.85
+156,Accountant IV,Flipstorm,Marketing Manager,Data Analyst,Intelectual,Todos,Prefiro não responder,Salvador,5733.41
+157,Operator,Topicware,Software Engineer,IT Consultant,Nenhum,Preto,Mulher,Sao Paulo,2298.47
+158,Sales Representative,Skyba,Data Analyst,Data Analyst,Nenhum,Preto,Mulher,Sao Paulo,5042.15
+159,Operator,Skyndu,Human Resources Specialist,Software Engineer,Nenhum,Todos,Mulher,Fortaleza,4191.73
+160,Senior Developer,Skippad,Data Analyst,Software Engineer,Intelectual,Todos,Homem,Sao Paulo,7150.2
+161,Quality Control Specialist,Skinder,Marketing Manager,Data Analyst,Auditiva,Parda,Homem,Salvador,9206.65
+162,Geological Engineer,Yakitri,Data Analyst,Software Engineer,Fisico,Parda,Prefiro não responder,Sao Paulo,5111.77
+163,Assistant Media Planner,Eazzy,Sales Representative,IT Consultant,Visual,Todos,Prefiro não responder,Sao Paulo,9230.93
+164,VP Marketing,Dabvine,Marketing Manager,IT Consultant,Nenhum,Preto,Mulher,Fortaleza,4229.06
+165,Graphic Designer,Fanoodle,Software Engineer,IT Consultant,Intelectual,Preto,Prefiro não responder,Rio de Janeiro,4926.78
+166,Web Designer IV,Reallinks,Marketing Manager,Software Engineer,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,7317.47
+167,Accounting Assistant II,Gevee,Data Analyst,Network Administrator,Nenhum,Amarelo,Mulher,Sao Paulo,9010.29
+168,Staff Scientist,Chatterpoint,Human Resources Specialist,Data Analyst,Intelectual,Amarelo,Homem,Rio de Janeiro,7289.48
+169,Account Executive,Jabbersphere,Data Analyst,UX Designer,Auditiva,Preto,Homem,Brasilia,9128.33
+170,Recruiting Manager,Camido,Data Analyst,IT Consultant,Fisico,Todos,Prefiro não responder,Sao Paulo,9258.44
+171,Software Test Engineer I,Quimm,Human Resources Specialist,IT Consultant,Intelectual,Preto,Prefiro não responder,Salvador,9572.69
+172,Civil Engineer,Kwimbee,Human Resources Specialist,UX Designer,Intelectual,Todos,Mulher,Salvador,4422.25
+173,Data Coordinator,Voomm,Human Resources Specialist,Data Analyst,Intelectual,Preto,Homem,Brasilia,9868.1
+174,Project Manager,Abatz,Data Analyst,Software Engineer,Nenhum,Preto,Prefiro não responder,Fortaleza,3323.56
+175,Tax Accountant,Topiczoom,Sales Representative,Software Engineer,Nenhum,Branco,Mulher,Fortaleza,8362.84
+176,Assistant Professor,Skinder,Marketing Manager,Data Analyst,Intelectual,Parda,Mulher,Sao Paulo,6853.26
+177,Marketing Manager,Zoonoodle,Marketing Manager,Software Engineer,Intelectual,Parda,Mulher,Brasilia,2625.06
+178,Data Coordinator,Devify,Sales Representative,Software Engineer,Nenhum,Preto,Prefiro não responder,Salvador,4218.18
+179,Financial Analyst,Zoovu,Marketing Manager,Network Administrator,Nenhum,Preto,Prefiro não responder,Salvador,5655.46
+180,Teacher,Fivebridge,Marketing Manager,UX Designer,Visual,Parda,Homem,Brasilia,6356.52
+181,Marketing Assistant,Tagopia,Human Resources Specialist,IT Consultant,Nenhum,Amarelo,Prefiro não responder,Sao Paulo,9938.16
+182,Physical Therapy Assistant,Viva,Data Analyst,UX Designer,Intelectual,Parda,Mulher,Fortaleza,6069.76
+183,Database Administrator IV,Innotype,Software Engineer,UX Designer,Intelectual,Branco,Homem,Brasilia,3725.89
+184,Dental Hygienist,Snaptags,Human Resources Specialist,Network Administrator,Nenhum,Preto,Mulher,Salvador,1716.62
+185,Safety Technician II,Kare,Data Analyst,IT Consultant,Fisico,Todos,Prefiro não responder,Salvador,5559.91
+186,Product Engineer,Devpulse,Data Analyst,Network Administrator,Nenhum,Todos,Homem,Brasilia,6827.18
+187,Physical Therapy Assistant,Innojam,Marketing Manager,IT Consultant,Auditiva,Amarelo,Homem,Sao Paulo,8857.66
+188,Physical Therapy Assistant,Izio,Marketing Manager,Software Engineer,Nenhum,Todos,Homem,Fortaleza,5132.08
+189,General Manager,Tagpad,Sales Representative,Software Engineer,Auditiva,Preto,Mulher,Salvador,5258.25
+190,Desktop Support Technician,Gabcube,Sales Representative,Software Engineer,Intelectual,Amarelo,Prefiro não responder,Sao Paulo,8556.4
+191,Staff Scientist,DabZ,Human Resources Specialist,Data Analyst,Intelectual,Branco,Homem,Brasilia,7233.3
+192,Senior Financial Analyst,Feedfire,Software Engineer,Data Analyst,Visual,Preto,Homem,Brasilia,7137.24
+193,Help Desk Technician,Dazzlesphere,Marketing Manager,Software Engineer,Visual,Branco,Mulher,Sao Paulo,9930.22
+194,Geological Engineer,Viva,Software Engineer,Data Analyst,Nenhum,Parda,Mulher,Salvador,3646.44
+195,Media Manager IV,Trupe,Data Analyst,UX Designer,Intelectual,Preto,Prefiro não responder,Rio de Janeiro,4780.59
+196,Structural Analysis Engineer,Skilith,Data Analyst,Data Analyst,Auditiva,Amarelo,Homem,Fortaleza,6618.18
+197,Health Coach IV,Skippad,Software Engineer,Data Analyst,Visual,Todos,Mulher,Rio de Janeiro,3770.4
+198,Actuary,Meeveo,Marketing Manager,IT Consultant,Nenhum,Preto,Mulher,Sao Paulo,8509.24
+199,Occupational Therapist,Mydo,Sales Representative,UX Designer,Auditiva,Preto,Mulher,Sao Paulo,5001.93
+200,GIS Technical Architect,Eayo,Sales Representative,Data Analyst,Nenhum,Preto,Mulher,Salvador,3547.32
+201,Sales Representative,Dabtype,Software Engineer,Data Analyst,Visual,Parda,Mulher,Brasilia,9877.48
+202,Marketing Manager,Fivechat,Data Analyst,IT Consultant,Nenhum,Preto,Homem,Sao Paulo,8161.1
+203,VP Marketing,Jamia,Marketing Manager,Data Analyst,Nenhum,Parda,Prefiro não responder,Salvador,6977.16
+204,Staff Accountant III,Gigabox,Marketing Manager,IT Consultant,Visual,Todos,Prefiro não responder,Salvador,1892.9
+205,Associate Professor,Topdrive,Human Resources Specialist,Data Analyst,Auditiva,Todos,Mulher,Rio de Janeiro,6535.09
+206,Help Desk Technician,Oodoo,Human Resources Specialist,IT Consultant,Nenhum,Preto,Homem,Salvador,1711.95
+207,General Manager,Fivechat,Software Engineer,Software Engineer,Fisico,Todos,Mulher,Fortaleza,5047.82
+208,GIS Technical Architect,Edgeclub,Sales Representative,Software Engineer,Nenhum,Parda,Mulher,Rio de Janeiro,1756.79
+209,Chemical Engineer,Podcat,Software Engineer,Network Administrator,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,2002.23
+210,Associate Professor,Linkbridge,Human Resources Specialist,IT Consultant,Nenhum,Todos,Mulher,Salvador,5372.77
+211,Geologist III,Linkbridge,Marketing Manager,Software Engineer,Visual,Todos,Mulher,Brasilia,8442.94
+212,Structural Analysis Engineer,Kamba,Data Analyst,Data Analyst,Nenhum,Todos,Prefiro não responder,Sao Paulo,9481.7
+213,Speech Pathologist,Jabberstorm,Human Resources Specialist,UX Designer,Fisico,Todos,Prefiro não responder,Salvador,4726.26
+214,VP Marketing,Dynava,Human Resources Specialist,UX Designer,Nenhum,Todos,Homem,Fortaleza,1737.05
+215,Operator,Tazz,Data Analyst,Data Analyst,Nenhum,Todos,Mulher,Salvador,6930.39
+216,Civil Engineer,Meembee,Data Analyst,Data Analyst,Nenhum,Todos,Mulher,Fortaleza,7050.13
+217,Software Engineer III,Browsezoom,Human Resources Specialist,Software Engineer,Nenhum,Branco,Mulher,Salvador,4917.83
+218,Staff Accountant I,Quatz,Sales Representative,Data Analyst,Visual,Todos,Prefiro não responder,Sao Paulo,5099.86
+219,Web Developer II,Feednation,Sales Representative,Network Administrator,Fisico,Todos,Prefiro não responder,Rio de Janeiro,2484.39
+220,Technical Writer,Lazz,Marketing Manager,Data Analyst,Visual,Amarelo,Prefiro não responder,Salvador,2976.0
+221,Food Chemist,Jabbersphere,Software Engineer,IT Consultant,Auditiva,Todos,Mulher,Fortaleza,9360.28
+222,Graphic Designer,Vipe,Software Engineer,Data Analyst,Nenhum,Preto,Prefiro não responder,Fortaleza,7557.56
+223,Legal Assistant,Kanoodle,Software Engineer,UX Designer,Nenhum,Todos,Prefiro não responder,Fortaleza,3326.42
+224,Payment Adjustment Coordinator,Browsebug,Software Engineer,UX Designer,Intelectual,Branco,Mulher,Rio de Janeiro,4541.56
+225,Graphic Designer,Jaloo,Data Analyst,Software Engineer,Nenhum,Parda,Homem,Sao Paulo,6667.7
+226,Account Coordinator,Yakidoo,Human Resources Specialist,Data Analyst,Fisico,Todos,Mulher,Rio de Janeiro,7219.51
+227,VP Marketing,Skyba,Sales Representative,Software Engineer,Nenhum,Preto,Prefiro não responder,Brasilia,7798.11
+228,Nurse,Mita,Marketing Manager,Data Analyst,Fisico,Amarelo,Prefiro não responder,Rio de Janeiro,4292.91
+229,Speech Pathologist,Realblab,Sales Representative,IT Consultant,Visual,Branco,Homem,Rio de Janeiro,6785.05
+230,Marketing Assistant,Youspan,Software Engineer,UX Designer,Nenhum,Preto,Prefiro não responder,Rio de Janeiro,9741.85
+231,Nurse Practicioner,Fivechat,Human Resources Specialist,Network Administrator,Fisico,Parda,Homem,Fortaleza,6885.91
+232,Assistant Media Planner,Tazzy,Marketing Manager,Software Engineer,Fisico,Branco,Prefiro não responder,Rio de Janeiro,6420.62
+233,Web Developer II,Youbridge,Marketing Manager,Software Engineer,Fisico,Parda,Homem,Salvador,6161.63
+234,Graphic Designer,Voonix,Software Engineer,UX Designer,Nenhum,Preto,Mulher,Fortaleza,6667.89
+235,Analyst Programmer,Topicware,Sales Representative,Software Engineer,Intelectual,Todos,Prefiro não responder,Salvador,6761.61
+236,Research Associate,Realmix,Software Engineer,Data Analyst,Auditiva,Todos,Homem,Rio de Janeiro,8133.5
+237,Nurse Practicioner,Riffpath,Marketing Manager,Network Administrator,Nenhum,Preto,Prefiro não responder,Fortaleza,5886.46
+238,Speech Pathologist,Wikizz,Software Engineer,Data Analyst,Nenhum,Todos,Homem,Fortaleza,8053.51
+239,Environmental Tech,Meeveo,Human Resources Specialist,Data Analyst,Auditiva,Amarelo,Homem,Brasilia,9089.07
+240,Media Manager III,Zoomdog,Software Engineer,Network Administrator,Intelectual,Preto,Prefiro não responder,Salvador,6203.51
+241,Tax Accountant,Vitz,Data Analyst,Network Administrator,Nenhum,Todos,Mulher,Sao Paulo,5166.49
+242,Research Assistant II,Browsezoom,Software Engineer,Data Analyst,Auditiva,Todos,Mulher,Salvador,9236.68
+243,Marketing Assistant,Skajo,Marketing Manager,Network Administrator,Nenhum,Todos,Prefiro não responder,Sao Paulo,3308.94
+244,Geologist II,Devcast,Marketing Manager,Software Engineer,Auditiva,Preto,Homem,Salvador,9970.29
+245,Business Systems Development Analyst,Oloo,Software Engineer,Network Administrator,Nenhum,Preto,Mulher,Brasilia,8218.63
+246,Nurse Practicioner,Brainlounge,Sales Representative,Data Analyst,Nenhum,Branco,Mulher,Brasilia,1898.98
+247,Information Systems Manager,Ailane,Human Resources Specialist,Software Engineer,Nenhum,Amarelo,Homem,Rio de Janeiro,5413.0
+248,Environmental Specialist,Twitterlist,Marketing Manager,Software Engineer,Fisico,Amarelo,Mulher,Fortaleza,2384.05
+249,Senior Sales Associate,Innojam,Data Analyst,Data Analyst,Nenhum,Todos,Mulher,Rio de Janeiro,5857.81
+250,Social Worker,Browsebug,Software Engineer,Software Engineer,Visual,Todos,Mulher,Brasilia,4483.6
+251,Engineer IV,Realbuzz,Marketing Manager,UX Designer,Fisico,Todos,Homem,Sao Paulo,7075.5
+252,Junior Executive,Meedoo,Marketing Manager,Network Administrator,Nenhum,Todos,Mulher,Sao Paulo,7118.21
+253,Help Desk Operator,Quimm,Software Engineer,Network Administrator,Nenhum,Amarelo,Homem,Fortaleza,8343.3
+254,Media Manager I,Oyope,Marketing Manager,Data Analyst,Visual,Amarelo,Prefiro não responder,Sao Paulo,3007.98
+255,Structural Engineer,Rhybox,Sales Representative,Data Analyst,Auditiva,Todos,Prefiro não responder,Salvador,3015.82
+256,VP Product Management,Youfeed,Sales Representative,Software Engineer,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,7976.1
+257,Payment Adjustment Coordinator,Trudeo,Marketing Manager,Data Analyst,Auditiva,Branco,Mulher,Fortaleza,3639.0
+258,Systems Administrator I,Topiczoom,Human Resources Specialist,Data Analyst,Nenhum,Parda,Mulher,Sao Paulo,2645.86
+259,Community Outreach Specialist,Twinte,Human Resources Specialist,Software Engineer,Nenhum,Todos,Homem,Brasilia,1924.17
+260,VP Product Management,Gabcube,Human Resources Specialist,UX Designer,Auditiva,Preto,Mulher,Sao Paulo,5273.03
+261,Registered Nurse,Babbleblab,Human Resources Specialist,UX Designer,Visual,Todos,Homem,Sao Paulo,2698.4
+262,Information Systems Manager,BlogXS,Human Resources Specialist,Software Engineer,Nenhum,Preto,Homem,Rio de Janeiro,1591.05
+263,Actuary,Eamia,Data Analyst,IT Consultant,Nenhum,Todos,Prefiro não responder,Fortaleza,2971.24
+264,Project Manager,Rhyloo,Marketing Manager,Data Analyst,Intelectual,Todos,Prefiro não responder,Salvador,6807.29
+265,Electrical Engineer,Meeveo,Marketing Manager,Network Administrator,Nenhum,Preto,Mulher,Fortaleza,4302.76
+266,Web Developer II,Pixoboo,Sales Representative,UX Designer,Nenhum,Todos,Homem,Fortaleza,2240.73
+267,Analyst Programmer,Rhynoodle,Marketing Manager,Network Administrator,Nenhum,Todos,Homem,Brasilia,3992.74
+268,Account Coordinator,Brightbean,Software Engineer,IT Consultant,Nenhum,Amarelo,Prefiro não responder,Brasilia,7069.54
+269,Environmental Specialist,Mydo,Software Engineer,Network Administrator,Visual,Preto,Prefiro não responder,Sao Paulo,8763.12
+270,Environmental Tech,Topiclounge,Human Resources Specialist,Network Administrator,Fisico,Preto,Mulher,Brasilia,7229.59
+271,VP Accounting,Meembee,Marketing Manager,Network Administrator,Nenhum,Todos,Prefiro não responder,Salvador,9966.49
+272,Structural Engineer,Eazzy,Marketing Manager,Data Analyst,Nenhum,Todos,Homem,Brasilia,4370.52
+273,Marketing Assistant,Dazzlesphere,Sales Representative,IT Consultant,Nenhum,Branco,Homem,Rio de Janeiro,2553.18
+274,Director of Sales,Photobean,Marketing Manager,UX Designer,Fisico,Preto,Prefiro não responder,Sao Paulo,8809.17
+275,Senior Cost Accountant,Vimbo,Marketing Manager,UX Designer,Nenhum,Preto,Homem,Brasilia,2558.53
+276,Community Outreach Specialist,Zooveo,Marketing Manager,UX Designer,Nenhum,Preto,Prefiro não responder,Salvador,7402.95
+277,Administrative Assistant II,Skyble,Sales Representative,Software Engineer,Fisico,Todos,Homem,Rio de Janeiro,7986.15
+278,Software Test Engineer I,Brainlounge,Sales Representative,Network Administrator,Auditiva,Todos,Mulher,Fortaleza,7925.61
+279,Administrative Assistant I,Wordware,Human Resources Specialist,UX Designer,Nenhum,Preto,Mulher,Sao Paulo,6224.0
+280,Web Developer II,Shuffledrive,Sales Representative,IT Consultant,Fisico,Preto,Homem,Salvador,8834.24
+281,Junior Executive,Blognation,Sales Representative,Network Administrator,Nenhum,Todos,Mulher,Salvador,4443.35
+282,Design Engineer,Meevee,Sales Representative,Software Engineer,Nenhum,Parda,Homem,Rio de Janeiro,8578.53
+283,Tax Accountant,Yakidoo,Data Analyst,IT Consultant,Intelectual,Amarelo,Prefiro não responder,Sao Paulo,4899.38
+284,Marketing Manager,Yamia,Sales Representative,Software Engineer,Fisico,Preto,Homem,Salvador,4831.84
+285,Programmer I,Omba,Sales Representative,UX Designer,Visual,Parda,Homem,Rio de Janeiro,2636.64
+286,Electrical Engineer,Quinu,Sales Representative,Data Analyst,Nenhum,Todos,Homem,Fortaleza,9488.49
+287,VP Marketing,Digitube,Data Analyst,Network Administrator,Auditiva,Todos,Mulher,Rio de Janeiro,2226.13
+288,Software Consultant,Vinder,Software Engineer,IT Consultant,Nenhum,Todos,Mulher,Rio de Janeiro,4457.65
+289,Developer II,JumpXS,Software Engineer,UX Designer,Nenhum,Todos,Prefiro não responder,Brasilia,3534.96
+290,Occupational Therapist,Edgepulse,Human Resources Specialist,Network Administrator,Nenhum,Preto,Prefiro não responder,Brasilia,9320.49
+291,Chemical Engineer,Brightdog,Software Engineer,Software Engineer,Nenhum,Todos,Prefiro não responder,Sao Paulo,7774.47
+292,Dental Hygienist,Dabvine,Software Engineer,IT Consultant,Nenhum,Todos,Homem,Salvador,8409.88
+293,Design Engineer,Flipstorm,Sales Representative,Software Engineer,Nenhum,Todos,Homem,Fortaleza,1859.7
+294,Occupational Therapist,Browsetype,Human Resources Specialist,IT Consultant,Intelectual,Preto,Homem,Rio de Janeiro,5559.75
+295,Programmer II,Flashspan,Software Engineer,Data Analyst,Fisico,Todos,Prefiro não responder,Salvador,2072.44
+296,Editor,Realmix,Software Engineer,Network Administrator,Fisico,Todos,Homem,Salvador,9251.49
+297,Office Assistant IV,Gabvine,Marketing Manager,Data Analyst,Nenhum,Todos,Homem,Salvador,3460.86
+298,Graphic Designer,Skyble,Sales Representative,Network Administrator,Intelectual,Todos,Homem,Fortaleza,5250.66
+299,Compensation Analyst,Leenti,Sales Representative,Network Administrator,Fisico,Todos,Prefiro não responder,Salvador,9443.55
+300,VP Marketing,Centizu,Marketing Manager,IT Consultant,Nenhum,Preto,Mulher,Sao Paulo,1643.51
+301,Executive Secretary,Dabjam,Sales Representative,IT Consultant,Visual,Todos,Homem,Brasilia,8667.86
+302,Software Consultant,Eidel,Software Engineer,Data Analyst,Visual,Preto,Homem,Fortaleza,6174.97
+303,Cost Accountant,Skyvu,Data Analyst,Data Analyst,Fisico,Todos,Homem,Brasilia,2946.16
+304,Operator,Realmix,Marketing Manager,Data Analyst,Nenhum,Preto,Mulher,Fortaleza,2206.74
+305,Financial Analyst,Realbuzz,Human Resources Specialist,Data Analyst,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,5852.2
+306,VP Product Management,Fivechat,Marketing Manager,UX Designer,Nenhum,Todos,Mulher,Rio de Janeiro,6989.54
+307,VP Product Management,Gabcube,Software Engineer,Software Engineer,Visual,Branco,Mulher,Rio de Janeiro,3069.98
+308,Assistant Media Planner,Browsebug,Marketing Manager,IT Consultant,Nenhum,Todos,Homem,Fortaleza,3599.63
+309,Nuclear Power Engineer,Gigashots,Human Resources Specialist,IT Consultant,Intelectual,Parda,Homem,Salvador,6608.65
+310,Human Resources Manager,Feedbug,Sales Representative,Network Administrator,Auditiva,Branco,Homem,Fortaleza,6182.57
+311,Human Resources Manager,Skyvu,Marketing Manager,IT Consultant,Visual,Preto,Mulher,Rio de Janeiro,5875.26
+312,Human Resources Manager,Yakitri,Marketing Manager,UX Designer,Visual,Amarelo,Homem,Rio de Janeiro,4350.92
+313,Analyst Programmer,Voolia,Human Resources Specialist,Data Analyst,Nenhum,Branco,Prefiro não responder,Brasilia,9720.18
+314,Environmental Tech,Agimba,Sales Representative,Software Engineer,Intelectual,Preto,Prefiro não responder,Fortaleza,2672.09
+315,Budget/Accounting Analyst III,Oyonder,Marketing Manager,UX Designer,Auditiva,Preto,Homem,Rio de Janeiro,8339.8
+316,Social Worker,Brainverse,Marketing Manager,Network Administrator,Nenhum,Parda,Prefiro não responder,Fortaleza,9817.7
+317,Office Assistant II,Quamba,Human Resources Specialist,Network Administrator,Nenhum,Parda,Homem,Rio de Janeiro,6527.42
+318,Payment Adjustment Coordinator,Eayo,Human Resources Specialist,IT Consultant,Visual,Todos,Homem,Salvador,3602.06
+319,Internal Auditor,Kazio,Marketing Manager,IT Consultant,Nenhum,Preto,Prefiro não responder,Salvador,4795.39
+320,Social Worker,Feednation,Data Analyst,IT Consultant,Nenhum,Todos,Mulher,Rio de Janeiro,7230.52
+321,Cost Accountant,Shufflester,Sales Representative,UX Designer,Nenhum,Todos,Prefiro não responder,Salvador,7729.62
+322,Recruiting Manager,Jayo,Human Resources Specialist,Data Analyst,Fisico,Preto,Homem,Sao Paulo,6944.6
+323,Legal Assistant,Rhybox,Marketing Manager,Software Engineer,Nenhum,Preto,Prefiro não responder,Brasilia,1696.84
+324,Speech Pathologist,Wikivu,Data Analyst,IT Consultant,Visual,Todos,Homem,Sao Paulo,7495.63
+325,Librarian,Skipfire,Data Analyst,UX Designer,Nenhum,Preto,Homem,Rio de Janeiro,3283.13
+326,Speech Pathologist,Dabvine,Software Engineer,Data Analyst,Nenhum,Preto,Mulher,Brasilia,8091.62
+327,Staff Scientist,Photobug,Software Engineer,Software Engineer,Nenhum,Todos,Homem,Rio de Janeiro,1740.44
+328,Assistant Professor,Kazio,Sales Representative,Software Engineer,Nenhum,Todos,Prefiro não responder,Brasilia,7253.02
+329,Research Assistant I,Lazzy,Software Engineer,UX Designer,Visual,Branco,Mulher,Salvador,1749.04
+330,Staff Scientist,Thoughtbeat,Sales Representative,Data Analyst,Nenhum,Amarelo,Prefiro não responder,Fortaleza,3220.41
+331,Information Systems Manager,Yodo,Software Engineer,UX Designer,Nenhum,Todos,Homem,Rio de Janeiro,5640.39
+332,Assistant Professor,Feedspan,Human Resources Specialist,IT Consultant,Nenhum,Amarelo,Mulher,Sao Paulo,8021.81
+333,Speech Pathologist,Vipe,Marketing Manager,Network Administrator,Nenhum,Todos,Prefiro não responder,Salvador,8007.19
+334,VP Marketing,Wordify,Data Analyst,Network Administrator,Intelectual,Preto,Homem,Sao Paulo,9648.01
+335,Recruiting Manager,Nlounge,Sales Representative,Network Administrator,Fisico,Todos,Mulher,Salvador,1563.77
+336,Executive Secretary,Midel,Sales Representative,UX Designer,Nenhum,Branco,Prefiro não responder,Rio de Janeiro,3213.65
+337,Teacher,Jayo,Marketing Manager,UX Designer,Nenhum,Todos,Mulher,Brasilia,2388.5
+338,Geological Engineer,Jaxspan,Sales Representative,Software Engineer,Visual,Todos,Mulher,Sao Paulo,2155.07
+339,Senior Sales Associate,Oodoo,Marketing Manager,Data Analyst,Fisico,Preto,Mulher,Sao Paulo,2592.17
+340,Computer Systems Analyst II,Tanoodle,Human Resources Specialist,Network Administrator,Intelectual,Preto,Homem,Salvador,5321.92
+341,Legal Assistant,Devshare,Data Analyst,Data Analyst,Nenhum,Preto,Homem,Salvador,1886.5
+342,Information Systems Manager,Mynte,Marketing Manager,UX Designer,Auditiva,Todos,Homem,Fortaleza,4357.97
+343,Tax Accountant,Zoombox,Software Engineer,Data Analyst,Intelectual,Todos,Prefiro não responder,Fortaleza,5469.53
+344,Sales Associate,Dynava,Software Engineer,Network Administrator,Nenhum,Preto,Homem,Fortaleza,9260.64
+345,Administrative Officer,Pixoboo,Sales Representative,IT Consultant,Visual,Amarelo,Homem,Brasilia,4776.6
+346,Clinical Specialist,Vinte,Software Engineer,UX Designer,Auditiva,Preto,Homem,Fortaleza,5590.1
+347,Civil Engineer,Flashpoint,Marketing Manager,Data Analyst,Nenhum,Todos,Prefiro não responder,Fortaleza,9660.86
+348,Sales Associate,Oyoba,Sales Representative,Data Analyst,Auditiva,Todos,Mulher,Rio de Janeiro,8806.64
+349,Statistician III,Oyope,Data Analyst,IT Consultant,Nenhum,Preto,Homem,Rio de Janeiro,8457.74
+350,Computer Systems Analyst III,Ozu,Sales Representative,UX Designer,Visual,Todos,Prefiro não responder,Brasilia,7499.47
+351,Data Coordinator,Mudo,Software Engineer,Software Engineer,Nenhum,Amarelo,Mulher,Salvador,7607.96
+352,Statistician IV,Yadel,Data Analyst,Software Engineer,Nenhum,Branco,Prefiro não responder,Sao Paulo,1943.88
+353,Sales Associate,Skyvu,Software Engineer,Network Administrator,Nenhum,Preto,Homem,Rio de Janeiro,8497.75
+354,Editor,Einti,Sales Representative,IT Consultant,Fisico,Todos,Prefiro não responder,Fortaleza,1969.85
+355,Marketing Manager,Brightdog,Sales Representative,UX Designer,Intelectual,Todos,Mulher,Salvador,6255.54
+356,Programmer I,Devcast,Sales Representative,IT Consultant,Visual,Preto,Mulher,Sao Paulo,5283.77
+357,Office Assistant III,Meejo,Sales Representative,UX Designer,Fisico,Amarelo,Mulher,Sao Paulo,1538.1
+358,Quality Control Specialist,Meezzy,Human Resources Specialist,Network Administrator,Fisico,Todos,Mulher,Sao Paulo,5235.65
+359,Senior Cost Accountant,Twinte,Marketing Manager,Software Engineer,Intelectual,Todos,Homem,Sao Paulo,7560.83
+360,Geologist III,Skalith,Software Engineer,Data Analyst,Visual,Todos,Mulher,Rio de Janeiro,6901.49
+361,Account Coordinator,Voonix,Software Engineer,Software Engineer,Nenhum,Parda,Homem,Sao Paulo,5410.6
+362,Automation Specialist IV,Quimba,Marketing Manager,Network Administrator,Nenhum,Amarelo,Homem,Rio de Janeiro,5638.88
+363,Health Coach I,Skippad,Software Engineer,IT Consultant,Visual,Parda,Mulher,Salvador,8178.2
+364,Developer III,Dynabox,Human Resources Specialist,Software Engineer,Nenhum,Amarelo,Homem,Salvador,3004.02
+365,Media Manager II,Quinu,Human Resources Specialist,IT Consultant,Nenhum,Todos,Mulher,Fortaleza,1729.85
+366,Account Coordinator,Ooba,Data Analyst,Software Engineer,Nenhum,Amarelo,Homem,Salvador,9330.93
+367,Administrative Officer,Gabcube,Marketing Manager,IT Consultant,Nenhum,Preto,Homem,Rio de Janeiro,6423.34
+368,Financial Advisor,Wikido,Data Analyst,Data Analyst,Fisico,Todos,Mulher,Salvador,6833.33
+369,Senior Cost Accountant,Rhybox,Software Engineer,Network Administrator,Auditiva,Todos,Prefiro não responder,Salvador,6541.37
+370,Recruiting Manager,Gabcube,Human Resources Specialist,IT Consultant,Fisico,Todos,Mulher,Fortaleza,5641.48
+371,Associate Professor,Browsebug,Human Resources Specialist,Software Engineer,Visual,Todos,Mulher,Sao Paulo,9164.3
+372,Office Assistant II,Trudeo,Software Engineer,IT Consultant,Visual,Preto,Mulher,Sao Paulo,8023.38
+373,Automation Specialist I,Skimia,Software Engineer,Network Administrator,Fisico,Preto,Mulher,Rio de Janeiro,9296.53
+374,Cost Accountant,Oodoo,Sales Representative,Data Analyst,Fisico,Parda,Prefiro não responder,Brasilia,6301.42
+375,VP Marketing,Kwilith,Human Resources Specialist,Software Engineer,Nenhum,Amarelo,Homem,Rio de Janeiro,3259.84
+376,Payment Adjustment Coordinator,Edgewire,Data Analyst,Software Engineer,Nenhum,Todos,Homem,Sao Paulo,7869.29
+377,Business Systems Development Analyst,Latz,Human Resources Specialist,Data Analyst,Auditiva,Todos,Prefiro não responder,Salvador,3253.68
+378,Junior Executive,Tanoodle,Human Resources Specialist,Network Administrator,Visual,Preto,Prefiro não responder,Brasilia,9684.98
+379,Data Coordinator,Jaloo,Human Resources Specialist,Network Administrator,Auditiva,Preto,Homem,Rio de Janeiro,7094.95
+380,Marketing Manager,Meeveo,Marketing Manager,Software Engineer,Visual,Todos,Mulher,Brasilia,4803.73
+381,Financial Analyst,Yata,Sales Representative,Network Administrator,Nenhum,Preto,Mulher,Fortaleza,8201.57
+382,Internal Auditor,Jaxspan,Data Analyst,IT Consultant,Visual,Todos,Mulher,Fortaleza,6792.66
+383,Dental Hygienist,Rooxo,Software Engineer,UX Designer,Auditiva,Preto,Homem,Fortaleza,5577.92
+384,VP Product Management,Janyx,Marketing Manager,Data Analyst,Auditiva,Todos,Mulher,Fortaleza,3241.3
+385,General Manager,Mymm,Marketing Manager,Software Engineer,Auditiva,Todos,Mulher,Fortaleza,7867.61
+386,Nurse,Youtags,Marketing Manager,Data Analyst,Visual,Amarelo,Mulher,Sao Paulo,4331.47
+387,Programmer Analyst IV,Yata,Marketing Manager,Network Administrator,Auditiva,Preto,Mulher,Salvador,2565.89
+388,Teacher,Jabbertype,Data Analyst,UX Designer,Fisico,Todos,Mulher,Salvador,5642.59
+389,Software Engineer II,Skipstorm,Human Resources Specialist,UX Designer,Intelectual,Preto,Homem,Fortaleza,6767.64
+390,Administrative Assistant II,Photospace,Human Resources Specialist,IT Consultant,Nenhum,Preto,Homem,Fortaleza,9073.77
+391,Internal Auditor,Jabbersphere,Software Engineer,Network Administrator,Fisico,Todos,Prefiro não responder,Rio de Janeiro,4606.87
+392,Desktop Support Technician,Jetwire,Human Resources Specialist,Data Analyst,Nenhum,Preto,Mulher,Salvador,7087.49
+393,Marketing Assistant,Trilith,Marketing Manager,IT Consultant,Fisico,Preto,Homem,Fortaleza,2355.73
+394,Developer III,Feedspan,Software Engineer,UX Designer,Visual,Todos,Prefiro não responder,Rio de Janeiro,7999.97
+395,Senior Developer,Yodoo,Human Resources Specialist,UX Designer,Nenhum,Preto,Homem,Sao Paulo,9575.87
+396,Senior Financial Analyst,Voonte,Sales Representative,IT Consultant,Auditiva,Todos,Mulher,Rio de Janeiro,9454.58
+397,Programmer Analyst IV,Oyonder,Sales Representative,Data Analyst,Nenhum,Todos,Prefiro não responder,Fortaleza,5784.48
+398,Senior Editor,Gigazoom,Software Engineer,UX Designer,Nenhum,Branco,Prefiro não responder,Fortaleza,2421.07
+399,Web Developer II,Quimm,Human Resources Specialist,Network Administrator,Visual,Preto,Homem,Brasilia,1992.03
+400,Occupational Therapist,Jazzy,Marketing Manager,IT Consultant,Intelectual,Todos,Mulher,Sao Paulo,9252.24
+401,Senior Editor,Zoovu,Sales Representative,Software Engineer,Fisico,Todos,Homem,Fortaleza,3836.63
+402,Budget/Accounting Analyst III,Mydeo,Human Resources Specialist,UX Designer,Fisico,Parda,Homem,Brasilia,2297.48
+403,Account Representative IV,Quinu,Software Engineer,Data Analyst,Nenhum,Preto,Prefiro não responder,Fortaleza,7019.71
+404,Junior Executive,Voonyx,Human Resources Specialist,Data Analyst,Visual,Branco,Homem,Rio de Janeiro,3197.32
+405,Staff Accountant IV,Youbridge,Human Resources Specialist,IT Consultant,Nenhum,Branco,Homem,Fortaleza,6984.05
+406,Accounting Assistant III,Babblestorm,Data Analyst,UX Designer,Nenhum,Amarelo,Mulher,Fortaleza,7277.67
+407,Payment Adjustment Coordinator,Twitterbeat,Marketing Manager,Data Analyst,Nenhum,Todos,Mulher,Brasilia,5938.0
+408,Analyst Programmer,Yacero,Human Resources Specialist,UX Designer,Auditiva,Todos,Mulher,Fortaleza,3195.91
+409,Safety Technician I,Livetube,Human Resources Specialist,UX Designer,Intelectual,Todos,Homem,Rio de Janeiro,9482.14
+410,Office Assistant IV,Quimba,Software Engineer,Data Analyst,Nenhum,Todos,Mulher,Fortaleza,5928.67
+411,Nurse,Avaveo,Sales Representative,IT Consultant,Nenhum,Preto,Prefiro não responder,Sao Paulo,2935.45
+412,Marketing Assistant,Rhynyx,Sales Representative,IT Consultant,Intelectual,Todos,Mulher,Salvador,2555.95
+413,Technical Writer,Buzzshare,Marketing Manager,Software Engineer,Nenhum,Amarelo,Homem,Brasilia,6118.63
+414,Director of Sales,Avamm,Software Engineer,Software Engineer,Nenhum,Preto,Homem,Brasilia,3341.9
+415,Software Engineer II,Photobug,Sales Representative,Network Administrator,Auditiva,Amarelo,Prefiro não responder,Salvador,2027.51
+416,Sales Associate,DabZ,Software Engineer,Software Engineer,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,5448.71
+417,Budget/Accounting Analyst IV,Twitternation,Data Analyst,Network Administrator,Intelectual,Preto,Mulher,Brasilia,2341.71
+418,Environmental Tech,Livefish,Human Resources Specialist,Software Engineer,Nenhum,Todos,Mulher,Rio de Janeiro,5548.1
+419,Senior Financial Analyst,Tagpad,Software Engineer,Software Engineer,Visual,Todos,Prefiro não responder,Rio de Janeiro,3373.89
+420,Developer I,Fiveclub,Software Engineer,Software Engineer,Auditiva,Todos,Prefiro não responder,Brasilia,3696.15
+421,Research Associate,Feedspan,Software Engineer,UX Designer,Visual,Todos,Prefiro não responder,Sao Paulo,4023.25
+422,Paralegal,Jayo,Software Engineer,Data Analyst,Nenhum,Todos,Mulher,Rio de Janeiro,5522.63
+423,Research Associate,Gabcube,Human Resources Specialist,UX Designer,Fisico,Todos,Mulher,Salvador,6893.38
+424,Assistant Manager,Eayo,Sales Representative,IT Consultant,Nenhum,Todos,Homem,Salvador,4307.15
+425,Environmental Tech,Chatterbridge,Human Resources Specialist,Network Administrator,Nenhum,Todos,Prefiro não responder,Brasilia,2136.5
+426,Executive Secretary,Jatri,Sales Representative,Data Analyst,Nenhum,Preto,Mulher,Salvador,1672.84
+427,Geologist I,Livetube,Data Analyst,Software Engineer,Fisico,Preto,Prefiro não responder,Rio de Janeiro,4548.92
+428,Nuclear Power Engineer,Bubblebox,Data Analyst,UX Designer,Intelectual,Preto,Homem,Rio de Janeiro,7209.75
+429,Research Associate,Devshare,Software Engineer,IT Consultant,Auditiva,Preto,Prefiro não responder,Rio de Janeiro,1819.76
+430,Design Engineer,Avamba,Data Analyst,UX Designer,Nenhum,Parda,Homem,Fortaleza,1506.45
+431,Technical Writer,Buzzbean,Human Resources Specialist,Software Engineer,Fisico,Todos,Prefiro não responder,Salvador,7847.2
+432,Product Engineer,Mydeo,Marketing Manager,Software Engineer,Fisico,Todos,Homem,Brasilia,9121.28
+433,Human Resources Assistant II,Lazzy,Marketing Manager,Data Analyst,Intelectual,Todos,Mulher,Fortaleza,9959.33
+434,Financial Advisor,Trupe,Human Resources Specialist,Data Analyst,Auditiva,Preto,Mulher,Rio de Janeiro,4514.8
+435,Electrical Engineer,Shuffletag,Data Analyst,Network Administrator,Nenhum,Todos,Prefiro não responder,Sao Paulo,9561.8
+436,Speech Pathologist,Voomm,Sales Representative,Data Analyst,Fisico,Preto,Mulher,Salvador,4571.19
+437,Assistant Media Planner,Skinder,Marketing Manager,UX Designer,Visual,Todos,Prefiro não responder,Rio de Janeiro,7170.19
+438,Help Desk Technician,Jabberbean,Marketing Manager,UX Designer,Visual,Parda,Mulher,Brasilia,7267.92
+439,VP Accounting,Avavee,Human Resources Specialist,Network Administrator,Nenhum,Amarelo,Homem,Rio de Janeiro,5519.17
+440,Programmer III,InnoZ,Sales Representative,IT Consultant,Nenhum,Preto,Prefiro não responder,Brasilia,5459.61
+441,GIS Technical Architect,Leenti,Software Engineer,IT Consultant,Fisico,Todos,Homem,Fortaleza,7477.88
+442,Geologist IV,Skivee,Marketing Manager,Software Engineer,Nenhum,Amarelo,Mulher,Rio de Janeiro,9229.85
+443,Pharmacist,Voolith,Human Resources Specialist,UX Designer,Intelectual,Branco,Mulher,Brasilia,6667.6
+444,Executive Secretary,Yadel,Software Engineer,Data Analyst,Auditiva,Preto,Homem,Fortaleza,8041.12
+445,Nuclear Power Engineer,Browsebug,Data Analyst,Software Engineer,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,3723.68
+446,Sales Representative,Yata,Sales Representative,Network Administrator,Auditiva,Todos,Mulher,Fortaleza,2213.32
+447,Administrative Assistant IV,Devbug,Data Analyst,IT Consultant,Auditiva,Branco,Mulher,Sao Paulo,2381.26
+448,Internal Auditor,Realmix,Software Engineer,UX Designer,Auditiva,Preto,Mulher,Brasilia,7842.73
+449,Geological Engineer,Shufflebeat,Sales Representative,IT Consultant,Fisico,Branco,Mulher,Salvador,2985.52
+450,Desktop Support Technician,Browsetype,Sales Representative,Network Administrator,Nenhum,Todos,Mulher,Salvador,8227.89
+451,Graphic Designer,Tagpad,Sales Representative,UX Designer,Fisico,Amarelo,Prefiro não responder,Rio de Janeiro,4583.29
+452,Tax Accountant,Kazio,Sales Representative,IT Consultant,Intelectual,Parda,Homem,Brasilia,9324.31
+453,Staff Accountant IV,Mycat,Software Engineer,Network Administrator,Nenhum,Todos,Homem,Fortaleza,7514.68
+454,Administrative Officer,Oba,Human Resources Specialist,IT Consultant,Auditiva,Preto,Prefiro não responder,Sao Paulo,9976.97
+455,Safety Technician I,Twiyo,Marketing Manager,UX Designer,Intelectual,Todos,Homem,Rio de Janeiro,4687.83
+456,Help Desk Operator,Twitterbeat,Human Resources Specialist,Data Analyst,Intelectual,Todos,Homem,Sao Paulo,3645.93
+457,Help Desk Technician,Camimbo,Sales Representative,Software Engineer,Fisico,Todos,Mulher,Brasilia,9136.06
+458,Staff Scientist,Tavu,Human Resources Specialist,IT Consultant,Auditiva,Amarelo,Homem,Sao Paulo,5950.11
+459,Systems Administrator III,Shufflester,Data Analyst,Data Analyst,Intelectual,Todos,Prefiro não responder,Sao Paulo,7703.79
+460,Nurse,Livetube,Sales Representative,Software Engineer,Visual,Todos,Mulher,Brasilia,2584.13
+461,Biostatistician III,Oyope,Marketing Manager,Software Engineer,Auditiva,Amarelo,Homem,Salvador,1887.02
+462,Professor,Wikivu,Data Analyst,IT Consultant,Nenhum,Preto,Prefiro não responder,Fortaleza,8708.86
+463,Senior Cost Accountant,Kaymbo,Marketing Manager,Network Administrator,Visual,Parda,Mulher,Salvador,9853.7
+464,Editor,Meevee,Human Resources Specialist,Data Analyst,Nenhum,Parda,Homem,Fortaleza,9593.44
+465,Recruiting Manager,Meejo,Human Resources Specialist,IT Consultant,Visual,Todos,Mulher,Fortaleza,7942.77
+466,Account Executive,Dazzlesphere,Sales Representative,Software Engineer,Auditiva,Branco,Prefiro não responder,Fortaleza,6879.34
+467,Actuary,Aimbo,Marketing Manager,UX Designer,Nenhum,Parda,Prefiro não responder,Brasilia,4036.6
+468,Food Chemist,Yoveo,Human Resources Specialist,Network Administrator,Fisico,Preto,Prefiro não responder,Sao Paulo,5790.61
+469,Actuary,Trudoo,Marketing Manager,IT Consultant,Fisico,Todos,Prefiro não responder,Rio de Janeiro,4134.94
+470,Analyst Programmer,Skivee,Software Engineer,Network Administrator,Intelectual,Branco,Homem,Brasilia,4159.96
+471,Developer I,Twitterbridge,Software Engineer,UX Designer,Fisico,Todos,Homem,Salvador,1620.93
+472,Biostatistician II,Oozz,Software Engineer,IT Consultant,Nenhum,Parda,Homem,Rio de Janeiro,3059.19
+473,Payment Adjustment Coordinator,Dablist,Marketing Manager,IT Consultant,Intelectual,Preto,Homem,Sao Paulo,7028.89
+474,Physical Therapy Assistant,Realmix,Software Engineer,IT Consultant,Nenhum,Todos,Homem,Sao Paulo,2613.79
+475,Operator,Twitternation,Sales Representative,Network Administrator,Nenhum,Preto,Prefiro não responder,Salvador,8624.12
+476,Research Associate,Miboo,Data Analyst,Network Administrator,Auditiva,Parda,Mulher,Salvador,3111.4
+477,Legal Assistant,Bubbletube,Software Engineer,Network Administrator,Nenhum,Parda,Mulher,Brasilia,4083.18
+478,Accountant III,Oyoloo,Marketing Manager,Software Engineer,Nenhum,Todos,Prefiro não responder,Salvador,3951.36
+479,Account Representative III,Tagpad,Software Engineer,Software Engineer,Auditiva,Todos,Mulher,Brasilia,7863.6
+480,Marketing Assistant,Brightbean,Marketing Manager,Data Analyst,Visual,Amarelo,Prefiro não responder,Rio de Janeiro,1576.35
+481,Developer II,Jetwire,Data Analyst,Software Engineer,Visual,Preto,Prefiro não responder,Sao Paulo,2132.55
+482,Data Coordinator,Riffwire,Sales Representative,UX Designer,Intelectual,Preto,Homem,Rio de Janeiro,9867.83
+483,Nuclear Power Engineer,Skinder,Marketing Manager,Software Engineer,Nenhum,Preto,Homem,Brasilia,4989.77
+484,Software Engineer II,Miboo,Marketing Manager,Software Engineer,Auditiva,Todos,Mulher,Rio de Janeiro,7207.93
+485,Community Outreach Specialist,Youbridge,Human Resources Specialist,IT Consultant,Visual,Todos,Homem,Sao Paulo,8140.64
+486,Business Systems Development Analyst,Voonyx,Human Resources Specialist,Network Administrator,Fisico,Branco,Mulher,Sao Paulo,7487.12
+487,Media Manager II,Mybuzz,Data Analyst,IT Consultant,Fisico,Preto,Mulher,Fortaleza,6527.66
+488,Actuary,Dynabox,Marketing Manager,Data Analyst,Visual,Preto,Homem,Rio de Janeiro,9340.0
+489,Programmer III,Gevee,Data Analyst,Data Analyst,Fisico,Todos,Mulher,Salvador,6587.31
+490,Technical Writer,Kimia,Data Analyst,Software Engineer,Auditiva,Branco,Prefiro não responder,Salvador,2525.52
+491,Media Manager IV,Zoovu,Data Analyst,Software Engineer,Visual,Todos,Mulher,Sao Paulo,9733.74
+492,Office Assistant III,DabZ,Human Resources Specialist,UX Designer,Nenhum,Todos,Prefiro não responder,Brasilia,7392.49
+493,Computer Systems Analyst IV,Kanoodle,Marketing Manager,Network Administrator,Nenhum,Preto,Mulher,Fortaleza,7843.97
+494,General Manager,Yamia,Human Resources Specialist,Software Engineer,Intelectual,Todos,Prefiro não responder,Salvador,6919.9
+495,Associate Professor,Meeveo,Data Analyst,Network Administrator,Nenhum,Preto,Mulher,Rio de Janeiro,9473.98
+496,Compensation Analyst,Twimbo,Human Resources Specialist,Data Analyst,Visual,Todos,Mulher,Brasilia,3605.67
+497,Associate Professor,Riffwire,Human Resources Specialist,Software Engineer,Auditiva,Preto,Mulher,Brasilia,8144.4
+498,Web Designer III,Zoonoodle,Data Analyst,IT Consultant,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,6691.3
+499,Assistant Manager,Quaxo,Data Analyst,Data Analyst,Visual,Preto,Prefiro não responder,Rio de Janeiro,5317.63
+500,Developer III,Flashpoint,Data Analyst,Data Analyst,Fisico,Todos,Homem,Rio de Janeiro,8844.36
+501,Systems Administrator II,Meezzy,Marketing Manager,Network Administrator,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,4882.54
+502,VP Product Management,Zoovu,Sales Representative,UX Designer,Intelectual,Todos,Mulher,Rio de Janeiro,7124.96
+503,Help Desk Technician,Yamia,Data Analyst,Software Engineer,Auditiva,Preto,Homem,Fortaleza,4442.93
+504,Design Engineer,Jaxnation,Sales Representative,IT Consultant,Fisico,Todos,Prefiro não responder,Brasilia,4655.69
+505,Chemical Engineer,Tagopia,Data Analyst,Network Administrator,Visual,Parda,Homem,Fortaleza,7433.18
+506,Registered Nurse,Vinte,Sales Representative,Network Administrator,Intelectual,Preto,Mulher,Fortaleza,5026.28
+507,Senior Editor,Zoombeat,Software Engineer,Data Analyst,Intelectual,Todos,Mulher,Sao Paulo,9586.4
+508,Occupational Therapist,Podcat,Data Analyst,Data Analyst,Nenhum,Todos,Mulher,Sao Paulo,5759.43
+509,Junior Executive,Photospace,Data Analyst,Network Administrator,Visual,Parda,Prefiro não responder,Rio de Janeiro,5613.19
+510,Marketing Manager,Skivee,Sales Representative,Network Administrator,Intelectual,Todos,Prefiro não responder,Brasilia,3076.19
+511,Systems Administrator IV,Youtags,Human Resources Specialist,Data Analyst,Nenhum,Preto,Mulher,Rio de Janeiro,3758.27
+512,Speech Pathologist,Reallinks,Sales Representative,IT Consultant,Nenhum,Amarelo,Homem,Rio de Janeiro,4389.67
+513,Automation Specialist I,Quinu,Software Engineer,Network Administrator,Intelectual,Todos,Homem,Fortaleza,5010.32
+514,Staff Scientist,Voomm,Sales Representative,Software Engineer,Auditiva,Todos,Mulher,Fortaleza,2331.02
+515,Environmental Tech,Gigazoom,Software Engineer,IT Consultant,Auditiva,Amarelo,Homem,Rio de Janeiro,7983.51
+516,Physical Therapy Assistant,Wikido,Sales Representative,IT Consultant,Auditiva,Preto,Mulher,Salvador,9323.22
+517,Recruiter,Zoonoodle,Software Engineer,Data Analyst,Fisico,Todos,Prefiro não responder,Fortaleza,8790.7
+518,Speech Pathologist,Kwideo,Human Resources Specialist,Network Administrator,Nenhum,Todos,Mulher,Sao Paulo,2715.35
+519,Budget/Accounting Analyst III,Riffpedia,Software Engineer,IT Consultant,Intelectual,Todos,Prefiro não responder,Rio de Janeiro,3690.1
+520,Product Engineer,Linktype,Sales Representative,Network Administrator,Intelectual,Preto,Prefiro não responder,Fortaleza,9075.64
+521,Speech Pathologist,Brainbox,Sales Representative,Software Engineer,Visual,Preto,Prefiro não responder,Sao Paulo,6227.75
+522,Technical Writer,Jabbersphere,Sales Representative,Software Engineer,Auditiva,Preto,Prefiro não responder,Sao Paulo,6965.87
+523,Research Nurse,Realbridge,Software Engineer,Data Analyst,Nenhum,Branco,Prefiro não responder,Salvador,5220.54
+524,General Manager,Rhyzio,Software Engineer,Data Analyst,Nenhum,Todos,Mulher,Salvador,9063.8
+525,Human Resources Assistant I,Kanoodle,Data Analyst,Network Administrator,Nenhum,Parda,Prefiro não responder,Rio de Janeiro,3553.23
+526,Registered Nurse,Topdrive,Sales Representative,Network Administrator,Nenhum,Preto,Homem,Sao Paulo,4911.76
+527,Technical Writer,Gigaclub,Data Analyst,Network Administrator,Intelectual,Branco,Mulher,Fortaleza,2589.6
+528,Structural Analysis Engineer,Divanoodle,Human Resources Specialist,Data Analyst,Auditiva,Parda,Prefiro não responder,Fortaleza,6251.32
+529,Programmer Analyst II,Oyonder,Marketing Manager,Data Analyst,Fisico,Amarelo,Homem,Brasilia,3233.71
+530,Recruiting Manager,Kwimbee,Human Resources Specialist,Software Engineer,Nenhum,Preto,Mulher,Rio de Janeiro,5333.41
+531,Accountant III,Skynoodle,Sales Representative,Network Administrator,Nenhum,Preto,Homem,Brasilia,6170.96
+532,Help Desk Technician,Fanoodle,Sales Representative,UX Designer,Visual,Preto,Homem,Sao Paulo,7476.66
+533,Dental Hygienist,Rhycero,Human Resources Specialist,Network Administrator,Visual,Preto,Homem,Brasilia,2666.71
+534,Quality Engineer,Realfire,Sales Representative,Software Engineer,Intelectual,Branco,Mulher,Sao Paulo,6407.75
+535,Assistant Manager,Kwideo,Data Analyst,Software Engineer,Intelectual,Todos,Mulher,Salvador,9653.66
+536,Assistant Media Planner,Minyx,Marketing Manager,UX Designer,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,8162.93
+537,Executive Secretary,Cogibox,Marketing Manager,Network Administrator,Nenhum,Todos,Prefiro não responder,Salvador,9339.85
+538,Senior Cost Accountant,Rhynoodle,Sales Representative,Software Engineer,Nenhum,Preto,Homem,Brasilia,3931.32
+539,Engineer I,Skaboo,Sales Representative,IT Consultant,Auditiva,Parda,Homem,Sao Paulo,6653.53
+540,Structural Engineer,Browseblab,Marketing Manager,IT Consultant,Visual,Todos,Mulher,Rio de Janeiro,8695.94
+541,Mechanical Systems Engineer,Buzzshare,Software Engineer,IT Consultant,Visual,Preto,Mulher,Brasilia,3182.53
+542,Electrical Engineer,Browsedrive,Human Resources Specialist,Data Analyst,Nenhum,Amarelo,Homem,Salvador,7369.36
+543,Biostatistician IV,Fanoodle,Marketing Manager,Software Engineer,Intelectual,Branco,Prefiro não responder,Brasilia,3187.35
+544,Staff Accountant IV,Livetube,Marketing Manager,IT Consultant,Auditiva,Todos,Prefiro não responder,Brasilia,2527.88
+545,Staff Scientist,Dynava,Sales Representative,Software Engineer,Intelectual,Todos,Homem,Brasilia,2864.63
+546,Research Nurse,BlogXS,Sales Representative,Network Administrator,Nenhum,Todos,Mulher,Rio de Janeiro,2432.21
+547,Senior Financial Analyst,Kayveo,Data Analyst,UX Designer,Auditiva,Amarelo,Mulher,Rio de Janeiro,2805.01
+548,Database Administrator II,Brightdog,Data Analyst,IT Consultant,Visual,Preto,Homem,Salvador,5687.21
+549,Software Consultant,Thoughtsphere,Human Resources Specialist,UX Designer,Nenhum,Todos,Mulher,Rio de Janeiro,7722.44
+550,Paralegal,Dazzlesphere,Sales Representative,Network Administrator,Visual,Preto,Homem,Brasilia,2267.4
+551,Human Resources Assistant III,Browsezoom,Software Engineer,Network Administrator,Fisico,Parda,Mulher,Rio de Janeiro,4992.64
+552,Account Coordinator,Devbug,Marketing Manager,UX Designer,Nenhum,Preto,Prefiro não responder,Fortaleza,6530.06
+553,Software Engineer III,Rhynyx,Data Analyst,IT Consultant,Visual,Todos,Mulher,Sao Paulo,9528.25
+554,Administrative Officer,Mymm,Marketing Manager,UX Designer,Fisico,Preto,Homem,Fortaleza,6296.15
+555,Staff Scientist,Rooxo,Software Engineer,Data Analyst,Intelectual,Todos,Prefiro não responder,Sao Paulo,8937.13
+556,Geological Engineer,Yadel,Marketing Manager,Network Administrator,Nenhum,Parda,Homem,Brasilia,2152.47
+557,Sales Associate,Gabspot,Software Engineer,Software Engineer,Fisico,Amarelo,Mulher,Fortaleza,1739.16
+558,Quality Control Specialist,Tagtune,Software Engineer,UX Designer,Nenhum,Todos,Prefiro não responder,Salvador,2845.48
+559,Graphic Designer,Twinte,Human Resources Specialist,Network Administrator,Visual,Branco,Mulher,Salvador,6388.03
+560,Database Administrator I,Devpulse,Data Analyst,Network Administrator,Fisico,Branco,Prefiro não responder,Sao Paulo,5666.98
+561,Social Worker,Kayveo,Human Resources Specialist,Network Administrator,Auditiva,Todos,Prefiro não responder,Fortaleza,3135.57
+562,Computer Systems Analyst III,Leenti,Marketing Manager,Network Administrator,Auditiva,Todos,Mulher,Sao Paulo,8471.99
+563,VP Quality Control,Trudoo,Marketing Manager,IT Consultant,Fisico,Todos,Prefiro não responder,Fortaleza,4497.71
+564,Information Systems Manager,Minyx,Marketing Manager,Data Analyst,Auditiva,Todos,Homem,Sao Paulo,7287.33
+565,Engineer I,Tagtune,Human Resources Specialist,Network Administrator,Nenhum,Todos,Prefiro não responder,Salvador,7698.32
+566,Research Assistant I,Jaxworks,Software Engineer,UX Designer,Intelectual,Preto,Mulher,Sao Paulo,9285.65
+567,Software Test Engineer II,Thoughtstorm,Marketing Manager,IT Consultant,Visual,Todos,Prefiro não responder,Fortaleza,1563.92
+568,VP Sales,Fivespan,Human Resources Specialist,IT Consultant,Fisico,Todos,Prefiro não responder,Fortaleza,2014.28
+569,VP Quality Control,Twiyo,Sales Representative,UX Designer,Intelectual,Preto,Homem,Brasilia,5648.57
+570,Senior Cost Accountant,Flashset,Marketing Manager,UX Designer,Nenhum,Preto,Mulher,Brasilia,2232.95
+571,Social Worker,Zoonder,Marketing Manager,Network Administrator,Intelectual,Todos,Mulher,Fortaleza,9876.07
+572,Registered Nurse,Mudo,Data Analyst,Software Engineer,Fisico,Amarelo,Prefiro não responder,Salvador,1755.29
+573,Software Test Engineer II,Plajo,Marketing Manager,Data Analyst,Intelectual,Preto,Homem,Rio de Janeiro,9373.75
+574,Teacher,Wordware,Data Analyst,Software Engineer,Intelectual,Todos,Mulher,Sao Paulo,2637.14
+575,Account Representative IV,Dynazzy,Data Analyst,Network Administrator,Visual,Branco,Homem,Brasilia,6291.14
+576,Help Desk Technician,Oyondu,Data Analyst,Network Administrator,Nenhum,Todos,Homem,Fortaleza,4887.82
+577,Project Manager,Eimbee,Human Resources Specialist,IT Consultant,Auditiva,Preto,Prefiro não responder,Fortaleza,5712.16
+578,Internal Auditor,Jamia,Data Analyst,UX Designer,Intelectual,Todos,Prefiro não responder,Brasilia,2143.95
+579,Graphic Designer,Eire,Data Analyst,Data Analyst,Visual,Parda,Homem,Fortaleza,3312.36
+580,Occupational Therapist,Oodoo,Human Resources Specialist,IT Consultant,Nenhum,Todos,Mulher,Sao Paulo,9071.2
+581,Civil Engineer,Lajo,Data Analyst,Network Administrator,Visual,Amarelo,Mulher,Brasilia,5341.52
+582,Payment Adjustment Coordinator,BlogXS,Marketing Manager,IT Consultant,Fisico,Preto,Mulher,Salvador,2318.17
+583,Analyst Programmer,Thoughtworks,Human Resources Specialist,Software Engineer,Nenhum,Preto,Prefiro não responder,Salvador,8829.45
+584,Paralegal,Blogtag,Software Engineer,Software Engineer,Nenhum,Preto,Homem,Salvador,9082.18
+585,Senior Quality Engineer,Jatri,Marketing Manager,UX Designer,Nenhum,Todos,Prefiro não responder,Salvador,9010.49
+586,Systems Administrator IV,Aimbo,Sales Representative,Network Administrator,Nenhum,Branco,Mulher,Sao Paulo,5672.1
+587,General Manager,Shuffledrive,Human Resources Specialist,UX Designer,Nenhum,Branco,Prefiro não responder,Rio de Janeiro,8264.28
+588,Staff Accountant IV,Fanoodle,Software Engineer,IT Consultant,Nenhum,Todos,Mulher,Brasilia,1828.89
+589,Engineer I,Mita,Human Resources Specialist,Software Engineer,Nenhum,Todos,Homem,Brasilia,8961.51
+590,Budget/Accounting Analyst I,Aimbo,Marketing Manager,Software Engineer,Visual,Amarelo,Homem,Salvador,8340.21
+591,Operator,Wikizz,Marketing Manager,Software Engineer,Visual,Todos,Prefiro não responder,Brasilia,3423.19
+592,Payment Adjustment Coordinator,Camido,Data Analyst,Network Administrator,Nenhum,Todos,Prefiro não responder,Brasilia,4035.2
+593,Director of Sales,Mynte,Sales Representative,Data Analyst,Visual,Branco,Mulher,Sao Paulo,6496.01
+594,Office Assistant III,Topdrive,Data Analyst,IT Consultant,Nenhum,Preto,Prefiro não responder,Brasilia,3207.57
+595,Actuary,Riffwire,Software Engineer,Data Analyst,Nenhum,Todos,Prefiro não responder,Sao Paulo,8277.51
+596,Systems Administrator III,Browsezoom,Sales Representative,UX Designer,Fisico,Todos,Prefiro não responder,Sao Paulo,6543.39
+597,Food Chemist,Eare,Marketing Manager,UX Designer,Auditiva,Parda,Homem,Salvador,8843.16
+598,Accountant II,Skynoodle,Sales Representative,IT Consultant,Intelectual,Preto,Mulher,Brasilia,3429.15
+599,Statistician III,Katz,Human Resources Specialist,UX Designer,Auditiva,Preto,Prefiro não responder,Salvador,3910.79
+600,Administrative Assistant II,Jaxspan,Sales Representative,Network Administrator,Nenhum,Todos,Prefiro não responder,Sao Paulo,6518.58
+601,Human Resources Assistant II,Avamba,Software Engineer,Data Analyst,Nenhum,Amarelo,Prefiro não responder,Salvador,9921.87
+602,Legal Assistant,Blogtags,Software Engineer,IT Consultant,Nenhum,Todos,Mulher,Salvador,6998.38
+603,Compensation Analyst,Brainverse,Human Resources Specialist,Data Analyst,Intelectual,Preto,Mulher,Brasilia,4216.01
+604,Sales Associate,Zava,Human Resources Specialist,IT Consultant,Fisico,Preto,Mulher,Salvador,9435.62
+605,Internal Auditor,Ailane,Human Resources Specialist,Data Analyst,Auditiva,Amarelo,Prefiro não responder,Rio de Janeiro,9802.71
+606,Senior Cost Accountant,Yombu,Data Analyst,IT Consultant,Fisico,Preto,Homem,Fortaleza,6346.28
+607,Senior Financial Analyst,Cogilith,Human Resources Specialist,IT Consultant,Auditiva,Todos,Homem,Brasilia,8210.07
+608,Professor,Eire,Software Engineer,Network Administrator,Intelectual,Parda,Mulher,Sao Paulo,1529.74
+609,VP Accounting,Jaloo,Sales Representative,Data Analyst,Visual,Preto,Mulher,Fortaleza,9810.19
+610,Graphic Designer,Kimia,Software Engineer,Network Administrator,Auditiva,Preto,Homem,Rio de Janeiro,6840.86
+611,Sales Associate,Meedoo,Sales Representative,Software Engineer,Fisico,Preto,Homem,Salvador,3034.53
+612,Nuclear Power Engineer,Zoomlounge,Marketing Manager,Network Administrator,Nenhum,Preto,Prefiro não responder,Rio de Janeiro,5258.27
+613,Financial Advisor,Gigazoom,Software Engineer,Software Engineer,Nenhum,Todos,Mulher,Brasilia,1515.69
+614,Dental Hygienist,Quamba,Software Engineer,IT Consultant,Nenhum,Todos,Homem,Salvador,2296.55
+615,Assistant Media Planner,Twitterwire,Data Analyst,Software Engineer,Nenhum,Todos,Mulher,Salvador,5221.69
+616,Junior Executive,Skyvu,Marketing Manager,Data Analyst,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,1759.38
+617,Paralegal,Twimbo,Human Resources Specialist,IT Consultant,Nenhum,Preto,Mulher,Brasilia,4097.95
+618,Account Executive,Gigabox,Sales Representative,Software Engineer,Intelectual,Preto,Mulher,Fortaleza,6593.3
+619,Research Assistant II,Skinix,Sales Representative,Network Administrator,Nenhum,Todos,Mulher,Sao Paulo,1627.17
+620,Web Developer II,Quimm,Data Analyst,UX Designer,Intelectual,Todos,Mulher,Fortaleza,6108.05
+621,Research Associate,Quamba,Marketing Manager,IT Consultant,Nenhum,Branco,Prefiro não responder,Rio de Janeiro,8085.55
+622,Operator,Zoomcast,Sales Representative,UX Designer,Nenhum,Preto,Mulher,Sao Paulo,5109.29
+623,Nuclear Power Engineer,Youspan,Marketing Manager,Network Administrator,Auditiva,Preto,Prefiro não responder,Rio de Janeiro,9207.18
+624,Junior Executive,Flashdog,Marketing Manager,Network Administrator,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,7978.21
+625,Account Coordinator,Jabbersphere,Sales Representative,Network Administrator,Nenhum,Branco,Mulher,Sao Paulo,1835.88
+626,Statistician III,Kwimbee,Sales Representative,IT Consultant,Nenhum,Todos,Prefiro não responder,Fortaleza,6438.85
+627,Executive Secretary,Meeveo,Data Analyst,Data Analyst,Visual,Branco,Mulher,Sao Paulo,4284.97
+628,Safety Technician II,Nlounge,Human Resources Specialist,Data Analyst,Nenhum,Todos,Prefiro não responder,Brasilia,3360.43
+629,VP Accounting,Bubblebox,Data Analyst,UX Designer,Auditiva,Parda,Prefiro não responder,Brasilia,9737.11
+630,Marketing Manager,Yodel,Data Analyst,Data Analyst,Fisico,Preto,Homem,Sao Paulo,6962.08
+631,Data Coordinator,Kwideo,Human Resources Specialist,Software Engineer,Intelectual,Todos,Homem,Salvador,1905.34
+632,Administrative Assistant I,Eazzy,Human Resources Specialist,IT Consultant,Visual,Amarelo,Prefiro não responder,Fortaleza,7902.43
+633,Staff Scientist,Dynava,Human Resources Specialist,UX Designer,Intelectual,Todos,Homem,Fortaleza,7471.67
+634,Recruiter,Mymm,Marketing Manager,IT Consultant,Auditiva,Todos,Prefiro não responder,Sao Paulo,4459.44
+635,Civil Engineer,Fadeo,Human Resources Specialist,Software Engineer,Auditiva,Preto,Homem,Sao Paulo,4221.25
+636,Librarian,Zoomzone,Marketing Manager,Software Engineer,Auditiva,Todos,Mulher,Sao Paulo,3814.0
+637,Geological Engineer,Katz,Software Engineer,Network Administrator,Visual,Branco,Homem,Fortaleza,9932.63
+638,Registered Nurse,Tagfeed,Marketing Manager,IT Consultant,Visual,Todos,Prefiro não responder,Brasilia,6866.24
+639,Clinical Specialist,Jaxspan,Human Resources Specialist,Network Administrator,Visual,Todos,Mulher,Fortaleza,7684.96
+640,Business Systems Development Analyst,Yozio,Human Resources Specialist,Network Administrator,Visual,Preto,Homem,Brasilia,9272.93
+641,Assistant Manager,Tambee,Marketing Manager,IT Consultant,Visual,Todos,Prefiro não responder,Fortaleza,4877.9
+642,Senior Quality Engineer,Topdrive,Data Analyst,Network Administrator,Visual,Todos,Homem,Sao Paulo,9676.42
+643,Financial Advisor,Dynazzy,Software Engineer,Data Analyst,Visual,Todos,Mulher,Sao Paulo,6324.69
+644,Research Nurse,Shufflester,Sales Representative,IT Consultant,Nenhum,Preto,Prefiro não responder,Brasilia,7786.56
+645,Chief Design Engineer,Meejo,Sales Representative,Software Engineer,Nenhum,Preto,Mulher,Rio de Janeiro,8790.06
+646,Paralegal,Edgeclub,Software Engineer,UX Designer,Visual,Preto,Mulher,Rio de Janeiro,5039.47
+647,Web Designer II,Photobug,Data Analyst,Network Administrator,Visual,Todos,Mulher,Fortaleza,4257.22
+648,Accounting Assistant II,Thoughtworks,Software Engineer,IT Consultant,Intelectual,Amarelo,Prefiro não responder,Brasilia,1694.11
+649,VP Accounting,Yakidoo,Human Resources Specialist,UX Designer,Intelectual,Todos,Homem,Sao Paulo,7020.28
+650,Nuclear Power Engineer,Voomm,Data Analyst,UX Designer,Visual,Todos,Homem,Fortaleza,3034.8
+651,Systems Administrator II,Centimia,Human Resources Specialist,UX Designer,Nenhum,Branco,Prefiro não responder,Rio de Janeiro,6301.28
+652,Analog Circuit Design manager,Skinder,Sales Representative,Data Analyst,Intelectual,Todos,Mulher,Fortaleza,3083.76
+653,Developer IV,Fivechat,Software Engineer,Software Engineer,Visual,Branco,Prefiro não responder,Brasilia,8686.77
+654,Help Desk Technician,Lazzy,Software Engineer,IT Consultant,Fisico,Branco,Homem,Sao Paulo,7933.37
+655,Computer Systems Analyst I,Pixonyx,Data Analyst,Network Administrator,Nenhum,Preto,Mulher,Brasilia,9280.15
+656,Geologist I,Bluejam,Human Resources Specialist,Data Analyst,Visual,Preto,Homem,Fortaleza,4811.36
+657,Sales Associate,Zoomzone,Sales Representative,Network Administrator,Auditiva,Preto,Mulher,Sao Paulo,2453.52
+658,Structural Engineer,Yamia,Software Engineer,Network Administrator,Auditiva,Todos,Mulher,Sao Paulo,5457.38
+659,Editor,Flashdog,Sales Representative,Network Administrator,Nenhum,Preto,Prefiro não responder,Brasilia,2375.78
+660,Desktop Support Technician,Kwinu,Marketing Manager,Software Engineer,Fisico,Todos,Mulher,Fortaleza,7134.69
+661,Information Systems Manager,Jamia,Sales Representative,Network Administrator,Nenhum,Parda,Prefiro não responder,Rio de Janeiro,3613.17
+662,Research Nurse,Skalith,Human Resources Specialist,Network Administrator,Nenhum,Preto,Mulher,Rio de Janeiro,2715.86
+663,Professor,Meembee,Marketing Manager,Data Analyst,Visual,Todos,Mulher,Rio de Janeiro,8813.31
+664,Nurse,Gabvine,Marketing Manager,Software Engineer,Nenhum,Branco,Mulher,Brasilia,5599.48
+665,Research Assistant II,Babbleset,Marketing Manager,Software Engineer,Visual,Todos,Prefiro não responder,Sao Paulo,1506.97
+666,Professor,Babbleset,Marketing Manager,IT Consultant,Nenhum,Todos,Mulher,Sao Paulo,3756.65
+667,Actuary,Izio,Sales Representative,UX Designer,Nenhum,Preto,Prefiro não responder,Sao Paulo,2945.83
+668,Structural Analysis Engineer,Skalith,Sales Representative,Software Engineer,Nenhum,Todos,Homem,Sao Paulo,1921.47
+669,Administrative Assistant II,Jayo,Data Analyst,IT Consultant,Visual,Parda,Mulher,Salvador,6875.86
+670,Editor,Skiptube,Data Analyst,Data Analyst,Intelectual,Preto,Homem,Rio de Janeiro,8567.79
+671,Research Nurse,Leexo,Human Resources Specialist,UX Designer,Intelectual,Preto,Homem,Salvador,7199.7
+672,Account Executive,Buzzdog,Sales Representative,Software Engineer,Nenhum,Todos,Homem,Brasilia,5014.18
+673,Nurse Practicioner,Devify,Sales Representative,Network Administrator,Nenhum,Amarelo,Homem,Brasilia,6903.6
+674,Technical Writer,Tagcat,Marketing Manager,Data Analyst,Auditiva,Amarelo,Prefiro não responder,Sao Paulo,4365.65
+675,Assistant Media Planner,Fadeo,Marketing Manager,Network Administrator,Auditiva,Preto,Homem,Rio de Janeiro,7192.51
+676,General Manager,Photolist,Data Analyst,IT Consultant,Nenhum,Parda,Prefiro não responder,Sao Paulo,9523.57
+677,Legal Assistant,Jaxnation,Human Resources Specialist,Network Administrator,Auditiva,Parda,Mulher,Salvador,4400.05
+678,Staff Accountant I,Centidel,Human Resources Specialist,UX Designer,Auditiva,Branco,Homem,Salvador,9718.6
+679,Product Engineer,Quamba,Data Analyst,Data Analyst,Nenhum,Preto,Mulher,Rio de Janeiro,2461.24
+680,Engineer IV,Brightbean,Data Analyst,IT Consultant,Nenhum,Preto,Mulher,Rio de Janeiro,3514.88
+681,Nuclear Power Engineer,Myworks,Data Analyst,IT Consultant,Fisico,Todos,Homem,Brasilia,7935.41
+682,Financial Analyst,Topdrive,Human Resources Specialist,UX Designer,Nenhum,Branco,Mulher,Salvador,7711.13
+683,GIS Technical Architect,Omba,Data Analyst,UX Designer,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,2733.87
+684,Social Worker,Realmix,Sales Representative,Software Engineer,Nenhum,Amarelo,Homem,Rio de Janeiro,4253.96
+685,Assistant Professor,Divanoodle,Human Resources Specialist,Software Engineer,Auditiva,Parda,Homem,Rio de Janeiro,1783.09
+686,Environmental Specialist,Jaxbean,Sales Representative,Network Administrator,Nenhum,Todos,Homem,Salvador,7020.79
+687,Sales Representative,Babblestorm,Human Resources Specialist,UX Designer,Nenhum,Preto,Mulher,Brasilia,5172.48
+688,Geological Engineer,Tekfly,Human Resources Specialist,Software Engineer,Fisico,Todos,Homem,Brasilia,5876.97
+689,Assistant Media Planner,Edgetag,Marketing Manager,Data Analyst,Nenhum,Preto,Prefiro não responder,Brasilia,2378.3
+690,Paralegal,Twimbo,Marketing Manager,UX Designer,Visual,Branco,Homem,Sao Paulo,3100.36
+691,Senior Quality Engineer,Skyvu,Data Analyst,Software Engineer,Auditiva,Todos,Homem,Salvador,9722.13
+692,Research Nurse,Yozio,Sales Representative,Network Administrator,Auditiva,Todos,Prefiro não responder,Fortaleza,9409.85
+693,Engineer II,Trunyx,Human Resources Specialist,Data Analyst,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,6866.6
+694,Payment Adjustment Coordinator,Tagchat,Sales Representative,UX Designer,Intelectual,Todos,Homem,Fortaleza,9630.55
+695,Administrative Assistant III,Topiclounge,Human Resources Specialist,Data Analyst,Nenhum,Preto,Homem,Sao Paulo,6136.01
+696,Teacher,Blogspan,Sales Representative,Data Analyst,Auditiva,Preto,Prefiro não responder,Sao Paulo,5345.56
+697,Chemical Engineer,Roombo,Human Resources Specialist,UX Designer,Visual,Preto,Prefiro não responder,Fortaleza,2754.79
+698,Budget/Accounting Analyst II,Flashdog,Data Analyst,Network Administrator,Nenhum,Amarelo,Mulher,Rio de Janeiro,8947.49
+699,Administrative Assistant II,Tavu,Software Engineer,Data Analyst,Nenhum,Todos,Prefiro não responder,Salvador,4120.06
+700,Account Representative I,Tagchat,Sales Representative,IT Consultant,Nenhum,Todos,Homem,Rio de Janeiro,2002.91
+701,Research Nurse,Twitterbeat,Data Analyst,IT Consultant,Auditiva,Preto,Homem,Salvador,1826.08
+702,Engineer I,Rooxo,Human Resources Specialist,UX Designer,Fisico,Preto,Homem,Fortaleza,6085.99
+703,Actuary,BlogXS,Data Analyst,Network Administrator,Visual,Preto,Homem,Rio de Janeiro,5370.72
+704,Accountant IV,Devcast,Human Resources Specialist,Network Administrator,Nenhum,Preto,Homem,Rio de Janeiro,1998.46
+705,Senior Cost Accountant,Quire,Software Engineer,IT Consultant,Visual,Preto,Homem,Rio de Janeiro,4593.6
+706,Web Developer II,Einti,Data Analyst,Network Administrator,Nenhum,Todos,Mulher,Rio de Janeiro,7457.32
+707,VP Marketing,Meevee,Marketing Manager,UX Designer,Fisico,Todos,Mulher,Sao Paulo,5838.31
+708,Budget/Accounting Analyst III,Twiyo,Software Engineer,Network Administrator,Auditiva,Branco,Homem,Sao Paulo,3765.76
+709,Executive Secretary,Realcube,Human Resources Specialist,Software Engineer,Fisico,Todos,Homem,Salvador,7030.53
+710,Safety Technician IV,Rooxo,Sales Representative,Software Engineer,Nenhum,Todos,Prefiro não responder,Brasilia,2111.96
+711,Senior Cost Accountant,Zooxo,Human Resources Specialist,Software Engineer,Nenhum,Parda,Homem,Salvador,7874.05
+712,Registered Nurse,Jetwire,Data Analyst,Software Engineer,Intelectual,Todos,Homem,Brasilia,9842.55
+713,Actuary,Photojam,Human Resources Specialist,Network Administrator,Fisico,Preto,Prefiro não responder,Fortaleza,5549.49
+714,VP Marketing,Babbleset,Sales Representative,Network Administrator,Nenhum,Branco,Homem,Sao Paulo,1821.38
+715,Chemical Engineer,Gevee,Sales Representative,UX Designer,Fisico,Branco,Mulher,Sao Paulo,2901.46
+716,Assistant Manager,Tekfly,Data Analyst,Software Engineer,Nenhum,Todos,Homem,Rio de Janeiro,5262.27
+717,Structural Analysis Engineer,Bluezoom,Data Analyst,UX Designer,Nenhum,Todos,Mulher,Rio de Janeiro,4486.57
+718,Biostatistician III,Edgeblab,Data Analyst,Network Administrator,Nenhum,Preto,Prefiro não responder,Sao Paulo,4428.08
+719,Senior Developer,Gabtype,Sales Representative,UX Designer,Fisico,Preto,Mulher,Fortaleza,5899.28
+720,Senior Editor,Browsecat,Data Analyst,Software Engineer,Fisico,Todos,Homem,Sao Paulo,6383.37
+721,Paralegal,Fliptune,Marketing Manager,Network Administrator,Intelectual,Todos,Homem,Salvador,3141.56
+722,Librarian,Thoughtstorm,Data Analyst,Software Engineer,Nenhum,Branco,Mulher,Brasilia,3815.39
+723,Chemical Engineer,Jabbercube,Human Resources Specialist,Network Administrator,Nenhum,Preto,Homem,Brasilia,3072.15
+724,Systems Administrator II,Wordpedia,Human Resources Specialist,Data Analyst,Nenhum,Preto,Prefiro não responder,Sao Paulo,4271.13
+725,Software Consultant,Wordpedia,Software Engineer,Network Administrator,Nenhum,Todos,Mulher,Fortaleza,1895.09
+726,Social Worker,Kamba,Data Analyst,Software Engineer,Intelectual,Preto,Homem,Sao Paulo,8557.9
+727,Chief Design Engineer,Flipbug,Software Engineer,UX Designer,Nenhum,Parda,Prefiro não responder,Salvador,9043.65
+728,Recruiter,Gabspot,Human Resources Specialist,Software Engineer,Intelectual,Branco,Prefiro não responder,Rio de Janeiro,6145.62
+729,Structural Analysis Engineer,Feedfire,Sales Representative,Network Administrator,Fisico,Branco,Prefiro não responder,Sao Paulo,4786.32
+730,VP Marketing,Bluejam,Software Engineer,Software Engineer,Nenhum,Branco,Prefiro não responder,Fortaleza,3607.4
+731,Administrative Assistant IV,Trunyx,Sales Representative,UX Designer,Nenhum,Todos,Prefiro não responder,Sao Paulo,8819.29
+732,Software Consultant,DabZ,Software Engineer,Network Administrator,Intelectual,Todos,Mulher,Sao Paulo,7859.83
+733,Environmental Specialist,Browsezoom,Marketing Manager,IT Consultant,Fisico,Branco,Prefiro não responder,Salvador,1702.58
+734,Senior Cost Accountant,Skinix,Software Engineer,Software Engineer,Nenhum,Todos,Mulher,Sao Paulo,8008.5
+735,Analyst Programmer,Mynte,Data Analyst,IT Consultant,Nenhum,Amarelo,Mulher,Sao Paulo,4418.48
+736,VP Quality Control,Kamba,Data Analyst,Software Engineer,Nenhum,Preto,Homem,Sao Paulo,3673.29
+737,Account Representative II,Skiptube,Marketing Manager,Network Administrator,Nenhum,Branco,Prefiro não responder,Fortaleza,8546.14
+738,Tax Accountant,Riffpath,Human Resources Specialist,IT Consultant,Nenhum,Branco,Mulher,Brasilia,9958.94
+739,Automation Specialist IV,Leexo,Human Resources Specialist,Data Analyst,Auditiva,Preto,Prefiro não responder,Sao Paulo,6336.09
+740,Analog Circuit Design manager,Zoonder,Sales Representative,Data Analyst,Intelectual,Amarelo,Homem,Fortaleza,5965.05
+741,Nurse,Skivee,Human Resources Specialist,UX Designer,Nenhum,Preto,Homem,Salvador,9890.81
+742,Systems Administrator II,Vidoo,Marketing Manager,Software Engineer,Nenhum,Amarelo,Homem,Rio de Janeiro,7693.14
+743,Office Assistant I,Centidel,Human Resources Specialist,Data Analyst,Nenhum,Preto,Prefiro não responder,Brasilia,5068.99
+744,Software Engineer II,Skyba,Data Analyst,UX Designer,Intelectual,Branco,Prefiro não responder,Salvador,1717.5
+745,Civil Engineer,Quimba,Software Engineer,Network Administrator,Auditiva,Todos,Prefiro não responder,Fortaleza,7555.75
+746,Geologist I,Mycat,Data Analyst,UX Designer,Nenhum,Todos,Homem,Salvador,5090.7
+747,Desktop Support Technician,Rhybox,Human Resources Specialist,UX Designer,Nenhum,Parda,Homem,Rio de Janeiro,4743.75
+748,Analog Circuit Design manager,Twitterbeat,Data Analyst,Data Analyst,Nenhum,Preto,Prefiro não responder,Fortaleza,8017.41
+749,Mechanical Systems Engineer,Fatz,Marketing Manager,Data Analyst,Nenhum,Preto,Mulher,Fortaleza,2570.52
+750,Desktop Support Technician,Camimbo,Software Engineer,Data Analyst,Nenhum,Branco,Mulher,Rio de Janeiro,7831.88
+751,Senior Sales Associate,Yozio,Human Resources Specialist,IT Consultant,Visual,Amarelo,Prefiro não responder,Sao Paulo,3487.72
+752,Financial Advisor,Jabberbean,Marketing Manager,UX Designer,Nenhum,Branco,Prefiro não responder,Sao Paulo,3780.15
+753,Data Coordinator,Tambee,Sales Representative,Software Engineer,Visual,Preto,Homem,Sao Paulo,9804.61
+754,Health Coach III,Jabbersphere,Marketing Manager,Software Engineer,Fisico,Todos,Homem,Brasilia,1614.1
+755,Research Nurse,Quamba,Marketing Manager,Data Analyst,Nenhum,Preto,Homem,Rio de Janeiro,6056.14
+756,Tax Accountant,Aibox,Sales Representative,Data Analyst,Intelectual,Preto,Prefiro não responder,Fortaleza,7835.39
+757,Quality Control Specialist,Zoovu,Human Resources Specialist,UX Designer,Nenhum,Todos,Prefiro não responder,Fortaleza,7672.15
+758,Assistant Media Planner,Chatterbridge,Marketing Manager,Network Administrator,Intelectual,Preto,Prefiro não responder,Brasilia,8651.52
+759,Financial Advisor,Twinte,Marketing Manager,Software Engineer,Visual,Preto,Homem,Sao Paulo,3394.26
+760,Account Coordinator,Skipstorm,Software Engineer,Software Engineer,Auditiva,Parda,Prefiro não responder,Fortaleza,6549.41
+761,VP Quality Control,Camido,Sales Representative,UX Designer,Visual,Parda,Prefiro não responder,Rio de Janeiro,8001.22
+762,Actuary,Photojam,Marketing Manager,Network Administrator,Visual,Todos,Prefiro não responder,Sao Paulo,6977.97
+763,Engineer III,Chatterpoint,Sales Representative,IT Consultant,Nenhum,Amarelo,Homem,Fortaleza,9014.47
+764,Developer I,Tanoodle,Data Analyst,UX Designer,Fisico,Amarelo,Prefiro não responder,Fortaleza,5999.9
+765,Software Engineer II,Oyoloo,Sales Representative,Software Engineer,Intelectual,Amarelo,Mulher,Brasilia,6221.7
+766,VP Marketing,Lazzy,Sales Representative,Software Engineer,Intelectual,Amarelo,Mulher,Brasilia,9049.91
+767,Senior Financial Analyst,Mybuzz,Software Engineer,Data Analyst,Nenhum,Parda,Homem,Brasilia,8807.63
+768,Financial Analyst,Trunyx,Sales Representative,Software Engineer,Nenhum,Parda,Homem,Fortaleza,6411.31
+769,VP Product Management,Katz,Sales Representative,IT Consultant,Fisico,Branco,Homem,Fortaleza,6595.68
+770,Account Coordinator,Photofeed,Human Resources Specialist,IT Consultant,Auditiva,Preto,Homem,Salvador,4077.41
+771,Environmental Specialist,Yodoo,Software Engineer,UX Designer,Intelectual,Amarelo,Homem,Rio de Janeiro,6328.47
+772,Junior Executive,Lazz,Human Resources Specialist,Data Analyst,Auditiva,Todos,Homem,Brasilia,7625.54
+773,Chief Design Engineer,Browsezoom,Human Resources Specialist,UX Designer,Nenhum,Todos,Homem,Fortaleza,7794.05
+774,Software Engineer IV,Omba,Data Analyst,IT Consultant,Nenhum,Todos,Homem,Rio de Janeiro,4783.51
+775,Desktop Support Technician,Youspan,Sales Representative,Network Administrator,Intelectual,Todos,Mulher,Sao Paulo,1729.25
+776,Senior Editor,Fiveclub,Sales Representative,IT Consultant,Auditiva,Todos,Homem,Brasilia,8244.72
+777,Design Engineer,Skyba,Human Resources Specialist,IT Consultant,Visual,Branco,Prefiro não responder,Rio de Janeiro,9582.98
+778,Analyst Programmer,Jabbertype,Human Resources Specialist,UX Designer,Nenhum,Todos,Homem,Brasilia,3251.16
+779,Dental Hygienist,Realblab,Data Analyst,IT Consultant,Visual,Branco,Prefiro não responder,Rio de Janeiro,5214.39
+780,Software Test Engineer IV,Devcast,Human Resources Specialist,Data Analyst,Nenhum,Amarelo,Prefiro não responder,Brasilia,9415.74
+781,Accountant I,Skiptube,Data Analyst,Software Engineer,Auditiva,Todos,Mulher,Fortaleza,8638.37
+782,Executive Secretary,Shufflebeat,Sales Representative,Software Engineer,Nenhum,Parda,Prefiro não responder,Rio de Janeiro,9418.19
+783,Biostatistician IV,Topicshots,Data Analyst,Network Administrator,Auditiva,Preto,Mulher,Brasilia,9607.31
+784,Information Systems Manager,Twitterbridge,Data Analyst,IT Consultant,Visual,Preto,Mulher,Sao Paulo,4124.29
+785,Safety Technician IV,Yambee,Sales Representative,UX Designer,Intelectual,Preto,Mulher,Rio de Janeiro,2426.89
+786,Associate Professor,Twitterworks,Human Resources Specialist,UX Designer,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,9122.25
+787,Payment Adjustment Coordinator,Camimbo,Data Analyst,Network Administrator,Nenhum,Todos,Mulher,Fortaleza,1743.72
+788,Speech Pathologist,Youfeed,Software Engineer,Network Administrator,Nenhum,Preto,Homem,Fortaleza,9326.82
+789,Accounting Assistant II,Skippad,Sales Representative,IT Consultant,Visual,Branco,Homem,Sao Paulo,6013.55
+790,Marketing Manager,Pixonyx,Software Engineer,Network Administrator,Intelectual,Preto,Mulher,Rio de Janeiro,9724.55
+791,Administrative Assistant II,Gabtune,Sales Representative,IT Consultant,Fisico,Preto,Homem,Brasilia,5195.96
+792,Help Desk Operator,Realblab,Human Resources Specialist,Network Administrator,Intelectual,Preto,Mulher,Rio de Janeiro,9996.04
+793,VP Accounting,Zoomdog,Sales Representative,IT Consultant,Visual,Todos,Prefiro não responder,Fortaleza,4369.56
+794,Analyst Programmer,Divape,Sales Representative,IT Consultant,Nenhum,Todos,Homem,Fortaleza,1965.73
+795,Administrative Assistant III,Tagchat,Sales Representative,UX Designer,Nenhum,Todos,Homem,Rio de Janeiro,2194.89
+796,Senior Financial Analyst,Brainbox,Sales Representative,UX Designer,Auditiva,Todos,Mulher,Fortaleza,7209.42
+797,Sales Representative,Divanoodle,Sales Representative,Software Engineer,Nenhum,Todos,Homem,Salvador,4728.92
+798,Senior Editor,Realpoint,Sales Representative,Data Analyst,Fisico,Todos,Mulher,Salvador,7262.37
+799,Developer IV,Zoomcast,Software Engineer,Data Analyst,Fisico,Branco,Mulher,Brasilia,4711.02
+800,VP Sales,Vinte,Human Resources Specialist,Data Analyst,Nenhum,Todos,Mulher,Brasilia,3638.14
+801,Speech Pathologist,Leenti,Data Analyst,IT Consultant,Nenhum,Preto,Homem,Rio de Janeiro,7954.6
+802,Actuary,Feedmix,Data Analyst,Data Analyst,Nenhum,Preto,Mulher,Fortaleza,5871.41
+803,VP Sales,Skinte,Data Analyst,Network Administrator,Nenhum,Todos,Homem,Sao Paulo,6365.83
+804,Desktop Support Technician,Topdrive,Human Resources Specialist,UX Designer,Nenhum,Preto,Prefiro não responder,Sao Paulo,4080.55
+805,Software Consultant,Voolith,Human Resources Specialist,IT Consultant,Nenhum,Amarelo,Prefiro não responder,Sao Paulo,6709.41
+806,Compensation Analyst,Geba,Marketing Manager,Network Administrator,Intelectual,Todos,Prefiro não responder,Fortaleza,3888.1
+807,Professor,Quaxo,Human Resources Specialist,Network Administrator,Nenhum,Preto,Homem,Fortaleza,1877.76
+808,Human Resources Assistant III,Divape,Sales Representative,Network Administrator,Nenhum,Todos,Homem,Salvador,9582.11
+809,Operator,Zooxo,Sales Representative,UX Designer,Visual,Amarelo,Prefiro não responder,Rio de Janeiro,7226.85
+810,VP Product Management,Edgetag,Software Engineer,IT Consultant,Visual,Branco,Homem,Salvador,8530.11
+811,Occupational Therapist,Yoveo,Marketing Manager,Data Analyst,Fisico,Amarelo,Mulher,Sao Paulo,9554.22
+812,Dental Hygienist,Browsedrive,Marketing Manager,Data Analyst,Nenhum,Preto,Mulher,Salvador,9013.95
+813,Chief Design Engineer,Chatterbridge,Data Analyst,UX Designer,Intelectual,Preto,Homem,Fortaleza,5392.69
+814,Senior Quality Engineer,Centizu,Software Engineer,Network Administrator,Fisico,Todos,Mulher,Salvador,3130.26
+815,Help Desk Operator,Photobean,Marketing Manager,Data Analyst,Nenhum,Todos,Homem,Salvador,4679.1
+816,Senior Sales Associate,Cogibox,Marketing Manager,Network Administrator,Visual,Todos,Homem,Rio de Janeiro,8354.22
+817,Project Manager,Jaloo,Data Analyst,Data Analyst,Visual,Preto,Homem,Fortaleza,7390.09
+818,Data Coordinator,Chatterpoint,Human Resources Specialist,Data Analyst,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,5173.16
+819,Research Nurse,Linkbridge,Software Engineer,Network Administrator,Auditiva,Todos,Homem,Rio de Janeiro,4645.33
+820,Systems Administrator II,Feedmix,Sales Representative,Data Analyst,Nenhum,Parda,Mulher,Sao Paulo,8496.62
+821,Analog Circuit Design manager,Vipe,Marketing Manager,Software Engineer,Nenhum,Preto,Mulher,Fortaleza,3099.02
+822,Editor,Photojam,Software Engineer,IT Consultant,Auditiva,Todos,Prefiro não responder,Brasilia,3137.65
+823,Web Developer III,Tagcat,Sales Representative,Network Administrator,Fisico,Parda,Homem,Brasilia,8882.34
+824,Actuary,Lajo,Data Analyst,Network Administrator,Fisico,Preto,Homem,Sao Paulo,7942.32
+825,Assistant Manager,Babbleset,Human Resources Specialist,Data Analyst,Fisico,Todos,Mulher,Brasilia,4495.24
+826,Director of Sales,Dynazzy,Sales Representative,Data Analyst,Intelectual,Todos,Mulher,Fortaleza,9603.68
+827,Research Assistant II,Realblab,Marketing Manager,Network Administrator,Nenhum,Todos,Prefiro não responder,Salvador,5972.4
+828,Payment Adjustment Coordinator,Yozio,Human Resources Specialist,Software Engineer,Nenhum,Todos,Prefiro não responder,Sao Paulo,3971.31
+829,Senior Sales Associate,Yata,Sales Representative,Software Engineer,Visual,Todos,Mulher,Fortaleza,7591.31
+830,Junior Executive,Ainyx,Human Resources Specialist,Software Engineer,Nenhum,Preto,Homem,Fortaleza,4955.73
+831,Geologist II,Bluezoom,Data Analyst,IT Consultant,Fisico,Todos,Homem,Brasilia,8759.5
+832,Research Nurse,Voolia,Software Engineer,Data Analyst,Nenhum,Preto,Homem,Rio de Janeiro,2793.37
+833,Payment Adjustment Coordinator,Yakitri,Software Engineer,Data Analyst,Nenhum,Todos,Prefiro não responder,Brasilia,5907.23
+834,Analog Circuit Design manager,Photobug,Software Engineer,Software Engineer,Nenhum,Preto,Prefiro não responder,Brasilia,2828.52
+835,Nuclear Power Engineer,Browsetype,Human Resources Specialist,UX Designer,Intelectual,Parda,Homem,Sao Paulo,4003.22
+836,Automation Specialist IV,Riffpath,Sales Representative,IT Consultant,Fisico,Todos,Homem,Salvador,5243.43
+837,Software Consultant,Gabcube,Human Resources Specialist,Software Engineer,Nenhum,Preto,Prefiro não responder,Sao Paulo,7458.58
+838,Structural Engineer,Twitterbeat,Sales Representative,IT Consultant,Nenhum,Branco,Homem,Fortaleza,6777.31
+839,Speech Pathologist,Tagcat,Data Analyst,Network Administrator,Fisico,Amarelo,Homem,Rio de Janeiro,9296.86
+840,Quality Control Specialist,Mydo,Sales Representative,Network Administrator,Auditiva,Preto,Mulher,Brasilia,5226.92
+841,Senior Developer,Rhycero,Software Engineer,IT Consultant,Fisico,Preto,Homem,Brasilia,9302.15
+842,Staff Scientist,Skinix,Marketing Manager,Network Administrator,Visual,Preto,Mulher,Salvador,2474.38
+843,Account Coordinator,Jayo,Marketing Manager,Data Analyst,Nenhum,Todos,Prefiro não responder,Salvador,7430.37
+844,Senior Cost Accountant,Dynava,Human Resources Specialist,Data Analyst,Nenhum,Todos,Homem,Brasilia,2211.08
+845,Sales Representative,Avaveo,Sales Representative,Network Administrator,Auditiva,Todos,Prefiro não responder,Sao Paulo,5808.53
+846,Account Coordinator,Jaxbean,Software Engineer,Software Engineer,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,9136.04
+847,Cost Accountant,Kaymbo,Sales Representative,Software Engineer,Nenhum,Todos,Prefiro não responder,Brasilia,1816.6
+848,Senior Developer,Jabbertype,Software Engineer,Network Administrator,Nenhum,Todos,Mulher,Salvador,2763.4
+849,Safety Technician IV,Riffpedia,Marketing Manager,Data Analyst,Fisico,Amarelo,Mulher,Rio de Janeiro,7639.78
+850,Systems Administrator IV,Photobug,Sales Representative,Data Analyst,Visual,Parda,Homem,Sao Paulo,9689.27
+851,Assistant Professor,Feedfish,Sales Representative,Network Administrator,Nenhum,Preto,Prefiro não responder,Brasilia,8742.2
+852,Safety Technician III,Yozio,Sales Representative,UX Designer,Nenhum,Amarelo,Homem,Salvador,5702.82
+853,Human Resources Manager,Mycat,Marketing Manager,Software Engineer,Visual,Branco,Prefiro não responder,Salvador,8807.62
+854,Senior Cost Accountant,Vinte,Human Resources Specialist,UX Designer,Fisico,Preto,Mulher,Fortaleza,6261.39
+855,VP Marketing,Photofeed,Sales Representative,Software Engineer,Visual,Amarelo,Prefiro não responder,Fortaleza,3814.99
+856,Nuclear Power Engineer,Trupe,Software Engineer,IT Consultant,Intelectual,Todos,Homem,Fortaleza,9172.19
+857,Health Coach II,Pixonyx,Data Analyst,Software Engineer,Nenhum,Todos,Prefiro não responder,Fortaleza,2911.24
+858,VP Product Management,Pixoboo,Human Resources Specialist,IT Consultant,Nenhum,Preto,Mulher,Rio de Janeiro,3414.92
+859,Accountant III,Skinder,Marketing Manager,UX Designer,Nenhum,Todos,Mulher,Brasilia,3177.63
+860,VP Quality Control,Browsezoom,Human Resources Specialist,Network Administrator,Nenhum,Parda,Mulher,Sao Paulo,7329.56
+861,Legal Assistant,Wikivu,Sales Representative,Data Analyst,Nenhum,Todos,Prefiro não responder,Salvador,8804.7
+862,VP Product Management,Skyba,Data Analyst,Software Engineer,Nenhum,Parda,Mulher,Fortaleza,4952.02
+863,Paralegal,Yakijo,Software Engineer,Software Engineer,Visual,Preto,Homem,Brasilia,4320.11
+864,Business Systems Development Analyst,Bubblemix,Marketing Manager,Network Administrator,Intelectual,Parda,Homem,Fortaleza,1852.05
+865,Payment Adjustment Coordinator,Leenti,Software Engineer,Software Engineer,Intelectual,Parda,Prefiro não responder,Sao Paulo,6499.54
+866,VP Sales,Twimbo,Marketing Manager,UX Designer,Nenhum,Preto,Mulher,Fortaleza,1838.77
+867,Mechanical Systems Engineer,Wordware,Human Resources Specialist,IT Consultant,Fisico,Todos,Homem,Sao Paulo,9867.95
+868,Professor,Avaveo,Marketing Manager,IT Consultant,Intelectual,Preto,Prefiro não responder,Sao Paulo,8511.21
+869,Structural Engineer,Topdrive,Marketing Manager,UX Designer,Intelectual,Branco,Homem,Sao Paulo,3843.37
+870,Design Engineer,Edgeclub,Human Resources Specialist,UX Designer,Nenhum,Branco,Homem,Rio de Janeiro,8546.45
+871,Software Engineer III,Gigashots,Human Resources Specialist,IT Consultant,Intelectual,Todos,Homem,Rio de Janeiro,8826.54
+872,Systems Administrator II,Mynte,Data Analyst,Software Engineer,Nenhum,Amarelo,Mulher,Sao Paulo,6324.36
+873,Account Coordinator,Jabberbean,Marketing Manager,IT Consultant,Nenhum,Todos,Prefiro não responder,Brasilia,3730.34
+874,VP Accounting,Minyx,Marketing Manager,Network Administrator,Auditiva,Preto,Mulher,Fortaleza,1971.84
+875,Budget/Accounting Analyst I,Rhycero,Marketing Manager,Data Analyst,Nenhum,Preto,Mulher,Fortaleza,2025.86
+876,Staff Accountant III,Oyoba,Marketing Manager,Network Administrator,Intelectual,Todos,Prefiro não responder,Brasilia,5710.53
+877,Recruiter,Zava,Software Engineer,Network Administrator,Intelectual,Todos,Mulher,Sao Paulo,6462.51
+878,Senior Developer,Photobug,Marketing Manager,Network Administrator,Intelectual,Todos,Mulher,Rio de Janeiro,4057.4
+879,Teacher,Shuffledrive,Software Engineer,IT Consultant,Nenhum,Todos,Mulher,Sao Paulo,6869.09
+880,Legal Assistant,Twiyo,Software Engineer,Data Analyst,Nenhum,Todos,Mulher,Fortaleza,2101.47
+881,Marketing Assistant,Skiba,Data Analyst,Network Administrator,Intelectual,Amarelo,Prefiro não responder,Fortaleza,6755.52
+882,Software Consultant,Photospace,Data Analyst,Data Analyst,Visual,Branco,Homem,Salvador,7047.31
+883,Electrical Engineer,Babbleopia,Human Resources Specialist,IT Consultant,Fisico,Parda,Prefiro não responder,Salvador,5328.5
+884,Chief Design Engineer,Skyba,Sales Representative,Network Administrator,Auditiva,Branco,Prefiro não responder,Fortaleza,4087.64
+885,Geological Engineer,Twimm,Software Engineer,Data Analyst,Intelectual,Preto,Mulher,Fortaleza,3673.51
+886,Biostatistician IV,Twitterbridge,Data Analyst,Network Administrator,Auditiva,Todos,Mulher,Fortaleza,4984.41
+887,Systems Administrator II,Kwimbee,Software Engineer,Software Engineer,Nenhum,Preto,Mulher,Sao Paulo,3005.74
+888,Administrative Officer,Wordware,Data Analyst,Data Analyst,Fisico,Todos,Mulher,Brasilia,4081.69
+889,Programmer Analyst I,Youspan,Marketing Manager,Network Administrator,Intelectual,Todos,Prefiro não responder,Brasilia,5757.55
+890,Programmer Analyst II,Skalith,Data Analyst,Data Analyst,Fisico,Todos,Mulher,Fortaleza,2214.43
+891,Clinical Specialist,Mynte,Sales Representative,Network Administrator,Visual,Todos,Mulher,Salvador,8498.41
+892,Software Test Engineer III,Mymm,Sales Representative,Data Analyst,Auditiva,Amarelo,Mulher,Sao Paulo,2848.82
+893,Technical Writer,Vipe,Human Resources Specialist,UX Designer,Nenhum,Amarelo,Mulher,Rio de Janeiro,3191.34
+894,Paralegal,Jabbersphere,Sales Representative,Data Analyst,Auditiva,Todos,Homem,Fortaleza,4399.66
+895,Design Engineer,Browsedrive,Software Engineer,UX Designer,Visual,Todos,Prefiro não responder,Salvador,3603.85
+896,Human Resources Manager,Devcast,Data Analyst,Software Engineer,Visual,Todos,Homem,Brasilia,5768.83
+897,Nuclear Power Engineer,Kwilith,Human Resources Specialist,Software Engineer,Fisico,Todos,Prefiro não responder,Fortaleza,8272.78
+898,VP Product Management,Camimbo,Sales Representative,Software Engineer,Nenhum,Preto,Prefiro não responder,Rio de Janeiro,9954.43
+899,Accountant II,Eimbee,Marketing Manager,IT Consultant,Fisico,Parda,Homem,Fortaleza,6941.1
+900,VP Quality Control,Roodel,Data Analyst,IT Consultant,Nenhum,Todos,Prefiro não responder,Salvador,5035.72
+901,Cost Accountant,Rhyzio,Human Resources Specialist,Network Administrator,Intelectual,Preto,Homem,Fortaleza,7072.18
+902,Recruiter,Fliptune,Marketing Manager,Network Administrator,Intelectual,Todos,Mulher,Sao Paulo,2165.48
+903,Programmer II,Zoozzy,Software Engineer,IT Consultant,Nenhum,Amarelo,Mulher,Salvador,7989.52
+904,Occupational Therapist,Jetwire,Data Analyst,Network Administrator,Fisico,Parda,Mulher,Sao Paulo,3313.42
+905,Assistant Manager,Linklinks,Marketing Manager,Data Analyst,Nenhum,Preto,Mulher,Fortaleza,2281.69
+906,Internal Auditor,Tagpad,Data Analyst,Network Administrator,Nenhum,Amarelo,Homem,Rio de Janeiro,2066.22
+907,Food Chemist,Minyx,Data Analyst,Software Engineer,Nenhum,Preto,Prefiro não responder,Brasilia,3355.94
+908,Administrative Officer,Realblab,Marketing Manager,Software Engineer,Nenhum,Branco,Prefiro não responder,Brasilia,2111.15
+909,Geologist I,Babbleopia,Marketing Manager,UX Designer,Nenhum,Parda,Prefiro não responder,Brasilia,6216.51
+910,Research Assistant I,Eayo,Sales Representative,IT Consultant,Fisico,Todos,Homem,Sao Paulo,9873.79
+911,Nuclear Power Engineer,Yadel,Marketing Manager,IT Consultant,Fisico,Todos,Homem,Salvador,1593.94
+912,Chief Design Engineer,Devshare,Software Engineer,Software Engineer,Nenhum,Preto,Homem,Fortaleza,5990.82
+913,Tax Accountant,Brightbean,Human Resources Specialist,Software Engineer,Fisico,Todos,Homem,Brasilia,4730.42
+914,Executive Secretary,Topiczoom,Software Engineer,Network Administrator,Visual,Parda,Homem,Rio de Janeiro,3965.4
+915,Assistant Manager,Myworks,Sales Representative,Network Administrator,Nenhum,Todos,Homem,Fortaleza,8174.09
+916,Cost Accountant,Youspan,Data Analyst,Network Administrator,Fisico,Preto,Mulher,Brasilia,5649.11
+917,Senior Sales Associate,Yata,Marketing Manager,IT Consultant,Nenhum,Todos,Mulher,Rio de Janeiro,4581.5
+918,Research Nurse,Wikibox,Sales Representative,Software Engineer,Nenhum,Todos,Mulher,Salvador,6664.13
+919,Administrative Officer,Eidel,Human Resources Specialist,Data Analyst,Auditiva,Preto,Mulher,Salvador,5265.98
+920,Database Administrator III,Youtags,Software Engineer,Network Administrator,Auditiva,Parda,Homem,Rio de Janeiro,8442.45
+921,Geological Engineer,Minyx,Marketing Manager,IT Consultant,Auditiva,Todos,Prefiro não responder,Sao Paulo,7819.02
+922,Chemical Engineer,Tagopia,Software Engineer,Data Analyst,Visual,Todos,Mulher,Sao Paulo,5879.84
+923,Dental Hygienist,Dablist,Sales Representative,UX Designer,Nenhum,Branco,Mulher,Fortaleza,2798.12
+924,Administrative Assistant II,Latz,Software Engineer,Data Analyst,Nenhum,Todos,Homem,Sao Paulo,4670.9
+925,Geologist II,Oyoyo,Sales Representative,Software Engineer,Fisico,Amarelo,Mulher,Brasilia,5603.25
+926,Executive Secretary,Jabbersphere,Data Analyst,Network Administrator,Visual,Preto,Prefiro não responder,Sao Paulo,1835.17
+927,Senior Quality Engineer,Voomm,Human Resources Specialist,Software Engineer,Auditiva,Preto,Prefiro não responder,Fortaleza,3157.83
+928,Quality Control Specialist,Yodo,Human Resources Specialist,Software Engineer,Nenhum,Parda,Homem,Brasilia,4328.12
+929,Automation Specialist IV,Avaveo,Sales Representative,UX Designer,Nenhum,Todos,Homem,Sao Paulo,4210.66
+930,Senior Developer,Yozio,Sales Representative,Network Administrator,Auditiva,Parda,Prefiro não responder,Sao Paulo,3185.71
+931,Desktop Support Technician,Buzzdog,Data Analyst,IT Consultant,Visual,Preto,Prefiro não responder,Salvador,6698.26
+932,VP Quality Control,Realcube,Data Analyst,Network Administrator,Intelectual,Todos,Prefiro não responder,Rio de Janeiro,6556.6
+933,Senior Financial Analyst,Jabberbean,Marketing Manager,Data Analyst,Auditiva,Preto,Homem,Salvador,4011.72
+934,Account Executive,Quimba,Marketing Manager,Network Administrator,Visual,Preto,Homem,Fortaleza,2703.05
+935,Computer Systems Analyst IV,Dabfeed,Data Analyst,UX Designer,Visual,Todos,Prefiro não responder,Salvador,2494.01
+936,Web Developer IV,Photojam,Sales Representative,Network Administrator,Intelectual,Parda,Homem,Fortaleza,8513.89
+937,Speech Pathologist,Jaxworks,Marketing Manager,IT Consultant,Fisico,Branco,Mulher,Salvador,7894.95
+938,Safety Technician II,Gabvine,Human Resources Specialist,UX Designer,Visual,Todos,Homem,Salvador,6738.37
+939,Account Executive,Rhynoodle,Sales Representative,UX Designer,Fisico,Amarelo,Prefiro não responder,Rio de Janeiro,2319.28
+940,Physical Therapy Assistant,Rhynoodle,Sales Representative,IT Consultant,Nenhum,Preto,Mulher,Sao Paulo,7401.98
+941,Programmer Analyst II,Ozu,Data Analyst,IT Consultant,Nenhum,Todos,Homem,Sao Paulo,8402.49
+942,Registered Nurse,Divanoodle,Marketing Manager,IT Consultant,Nenhum,Amarelo,Mulher,Fortaleza,4790.02
+943,Research Associate,Skyble,Human Resources Specialist,Data Analyst,Nenhum,Branco,Homem,Salvador,3801.71
+944,Technical Writer,Browsetype,Software Engineer,Network Administrator,Nenhum,Parda,Prefiro não responder,Rio de Janeiro,5302.76
+945,Tax Accountant,Yakitri,Software Engineer,Network Administrator,Nenhum,Todos,Mulher,Brasilia,3099.45
+946,Senior Quality Engineer,Brightbean,Human Resources Specialist,Software Engineer,Nenhum,Preto,Mulher,Salvador,2334.95
+947,Financial Advisor,Jabbersphere,Marketing Manager,Software Engineer,Intelectual,Todos,Mulher,Rio de Janeiro,9709.41
+948,Administrative Assistant I,Rooxo,Software Engineer,Data Analyst,Nenhum,Todos,Prefiro não responder,Fortaleza,5906.93
+949,Database Administrator III,Flipopia,Sales Representative,Software Engineer,Nenhum,Todos,Homem,Sao Paulo,8973.02
+950,Payment Adjustment Coordinator,Dabjam,Marketing Manager,UX Designer,Nenhum,Todos,Mulher,Brasilia,4743.55
+951,Automation Specialist III,Latz,Human Resources Specialist,Data Analyst,Nenhum,Amarelo,Mulher,Rio de Janeiro,4345.99
+952,VP Quality Control,Riffpath,Data Analyst,Data Analyst,Auditiva,Branco,Mulher,Salvador,9050.5
+953,Registered Nurse,Quinu,Sales Representative,Software Engineer,Nenhum,Todos,Prefiro não responder,Fortaleza,3173.57
+954,Civil Engineer,Yodo,Sales Representative,Data Analyst,Visual,Todos,Homem,Rio de Janeiro,2302.4
+955,Design Engineer,Voonix,Data Analyst,Data Analyst,Auditiva,Todos,Homem,Brasilia,9763.18
+956,Statistician IV,Photojam,Data Analyst,Software Engineer,Nenhum,Preto,Homem,Rio de Janeiro,9879.58
+957,VP Quality Control,Skipfire,Marketing Manager,Software Engineer,Nenhum,Preto,Mulher,Brasilia,7506.84
+958,Administrative Officer,Eadel,Data Analyst,UX Designer,Intelectual,Preto,Prefiro não responder,Salvador,3521.09
+959,Recruiting Manager,Skinder,Human Resources Specialist,Software Engineer,Auditiva,Preto,Prefiro não responder,Rio de Janeiro,4275.1
+960,Actuary,Oba,Sales Representative,IT Consultant,Auditiva,Branco,Mulher,Sao Paulo,9769.01
+961,Assistant Professor,Skipstorm,Human Resources Specialist,Data Analyst,Visual,Todos,Prefiro não responder,Salvador,6281.1
+962,Office Assistant II,Feedfish,Human Resources Specialist,IT Consultant,Fisico,Parda,Mulher,Salvador,3898.8
+963,Administrative Assistant I,Skipstorm,Sales Representative,IT Consultant,Nenhum,Todos,Prefiro não responder,Brasilia,7255.91
+964,VP Accounting,Yambee,Human Resources Specialist,Network Administrator,Nenhum,Amarelo,Homem,Sao Paulo,9561.13
+965,Account Representative III,Rhybox,Sales Representative,Software Engineer,Auditiva,Todos,Mulher,Rio de Janeiro,9895.9
+966,Administrative Assistant IV,Divavu,Human Resources Specialist,Software Engineer,Auditiva,Amarelo,Homem,Fortaleza,5455.29
+967,Chemical Engineer,Ailane,Human Resources Specialist,IT Consultant,Intelectual,Preto,Homem,Brasilia,9170.12
+968,Geological Engineer,Roomm,Data Analyst,Data Analyst,Nenhum,Parda,Mulher,Sao Paulo,8985.32
+969,Cost Accountant,Jaxspan,Software Engineer,Network Administrator,Nenhum,Todos,Homem,Fortaleza,3728.38
+970,Financial Advisor,Oyonder,Data Analyst,Data Analyst,Intelectual,Preto,Mulher,Salvador,6099.93
+971,VP Marketing,Lajo,Data Analyst,Data Analyst,Visual,Preto,Homem,Fortaleza,5597.37
+972,Sales Associate,Devcast,Data Analyst,UX Designer,Nenhum,Preto,Homem,Brasilia,3195.81
+973,Quality Control Specialist,Livetube,Sales Representative,Software Engineer,Nenhum,Preto,Prefiro não responder,Fortaleza,3352.13
+974,Dental Hygienist,Browsebug,Data Analyst,IT Consultant,Nenhum,Preto,Homem,Brasilia,2938.6
+975,Environmental Tech,Quinu,Software Engineer,IT Consultant,Visual,Todos,Prefiro não responder,Rio de Janeiro,6477.69
+976,Marketing Assistant,Brainlounge,Marketing Manager,Data Analyst,Nenhum,Branco,Homem,Brasilia,6282.62
+977,Recruiter,Abatz,Sales Representative,UX Designer,Fisico,Amarelo,Prefiro não responder,Salvador,7431.54
+978,Project Manager,Dazzlesphere,Human Resources Specialist,Software Engineer,Intelectual,Branco,Mulher,Rio de Janeiro,9466.4
+979,Payment Adjustment Coordinator,Abatz,Data Analyst,Software Engineer,Auditiva,Preto,Prefiro não responder,Sao Paulo,3438.49
+980,Account Coordinator,Edgetag,Sales Representative,Network Administrator,Visual,Todos,Homem,Sao Paulo,3597.12
+981,Assistant Professor,Skippad,Sales Representative,Data Analyst,Nenhum,Amarelo,Homem,Brasilia,3592.88
+982,Payment Adjustment Coordinator,Rhybox,Human Resources Specialist,IT Consultant,Visual,Preto,Homem,Salvador,9020.14
+983,Web Designer II,Babbleopia,Marketing Manager,UX Designer,Auditiva,Todos,Homem,Brasilia,4443.66
+984,Payment Adjustment Coordinator,Skipfire,Sales Representative,Data Analyst,Visual,Todos,Mulher,Fortaleza,5538.16
+985,Recruiter,Meembee,Marketing Manager,Data Analyst,Intelectual,Todos,Mulher,Rio de Janeiro,8383.51
+986,Analog Circuit Design manager,Eire,Marketing Manager,IT Consultant,Nenhum,Preto,Mulher,Brasilia,2023.01
+987,Accounting Assistant III,Devpoint,Sales Representative,IT Consultant,Nenhum,Preto,Homem,Rio de Janeiro,8623.05
+988,Biostatistician IV,Meetz,Software Engineer,Data Analyst,Visual,Branco,Prefiro não responder,Salvador,7392.11
+989,General Manager,Yakidoo,Marketing Manager,UX Designer,Nenhum,Todos,Prefiro não responder,Rio de Janeiro,7346.45
+990,Quality Engineer,Agimba,Human Resources Specialist,Network Administrator,Nenhum,Preto,Homem,Brasilia,4101.94
+991,Media Manager I,Wordpedia,Data Analyst,Network Administrator,Fisico,Todos,Prefiro não responder,Rio de Janeiro,2016.41
+992,Budget/Accounting Analyst III,Meemm,Software Engineer,UX Designer,Nenhum,Preto,Homem,Brasilia,7076.9
+993,Payment Adjustment Coordinator,Brightbean,Marketing Manager,UX Designer,Nenhum,Todos,Homem,Sao Paulo,7024.53
+994,Design Engineer,Babblestorm,Human Resources Specialist,UX Designer,Auditiva,Preto,Mulher,Sao Paulo,8132.59
+995,Technical Writer,Meedoo,Sales Representative,Data Analyst,Nenhum,Amarelo,Prefiro não responder,Rio de Janeiro,2311.13
+996,Chemical Engineer,Kayveo,Software Engineer,Network Administrator,Nenhum,Amarelo,Homem,Brasilia,8404.47
+997,Project Manager,Leenti,Marketing Manager,Data Analyst,Intelectual,Preto,Prefiro não responder,Sao Paulo,9345.76
+998,Help Desk Operator,Zoomcast,Software Engineer,Software Engineer,Auditiva,Branco,Prefiro não responder,Salvador,2905.7
+999,General Manager,JumpXS,Data Analyst,Data Analyst,Auditiva,Preto,Homem,Rio de Janeiro,6958.65
+1000,Safety Technician I,Skimia,Sales Representative,Data Analyst,Fisico,Parda,Prefiro não responder,Salvador,6998.13
